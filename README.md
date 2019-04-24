@@ -291,15 +291,6 @@
 </details>
 
 <details>
-  <summary>应用控制器</summary>
-  <p>模块用途：null</p>
-  <p>更新日志：底层代码修改，请务必重启手机，否则可能会有未知问题(耗电/卡顿)！1.修复部分系统重启后未运行的应用卡片没有清除问题。2.修复个别系统微信登录被拦截问题。3.修复存储重定向导致部分文件管理器的一些异常（如果出现异常，请把你的文件管理器包名提供给我）。4.修复androidp网络防火墙无效问题。5.修复部分androidp系统卡开机（有两个测试正常,不代表所有正常，老司机可以安装后反馈在评论区）。提示：无论使用任何模块，首先要会备份系统/使用TWRP删除安装包，这是开车最基本常识，一旦出现无法开机请删除data/app/com.click369.controlbp即可，如果卡开机并且你是老司机，可以联系我QQ，我给发测试包进行测试，因为ed或太极并不是官方xp，所以有一定的概率是框架的bug，框架有bug只能通过不断测试绕过框架的bug。</p>
-  <p>模块版本号：3.2.3</p>
-  <p>模块安装包：https://www.coolapk.com/apk/com.click369.controlbp</p>
-  <p>issue url：<a url="https://api.github.com/repos/taichi-framework/TaiChi/issues/594"># 594</a></p>
-</details>
-
-<details>
   <summary>：edgepro边缘操作拓展</summary>
   <p>模块用途：null</p>
   <p>更新日志：Newaction:stopall,stoplooping(multi-actionandrepeat),playingsoundandspeech,injectinggesture,andgesturerecording.Bugfixes.</p>
