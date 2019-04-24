@@ -18,7 +18,7 @@
     },
     {
       "id": 424,
-      "name": "ColorOS5.2-Android-8.1-",
+      "name": "ColorOS5.2-Android-8.1",
       "use": "OPPO手机root后状态栏有红条警告，该模块能隐藏红条等",
       "changelog": null,
       "version": "1.3版本",
