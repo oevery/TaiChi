@@ -7,8 +7,8 @@ const db = low(adapter)
 async function write() {
   const posts = await db.get('posts').value()
   const baseUrl = 'https://api.github.com/repos/taichi-framework/TaiChi/issues/';
-  const des = '## 本列表为从太极 issues 列表抓取的信息，不对正确率以及覆盖率作任何保证，仅供尝鲜使用，佛系维护此份列表。';
-  fs.appendFileSync('list.md', des, (err) => {if (err) conlose.log(err)});
+  const des = '# TaiChi-ModuleList\n\n## 本列表为从太极 issues 列表抓取的信息，不对正确率以及覆盖率作任何保证，仅供尝鲜使用，佛系维护此份列表。';
+  fs.appendFileSync('README.md', des, (err) => {if (err) conlose.log(err)});
   posts.map(async (item) => {
     const result = `\n\n<details>
   <summary>${item.name}</summary>
@@ -18,7 +18,7 @@ async function write() {
   <p>模块安装包：${item.package}</p>
   <p>issue url：<a url="${baseUrl + item.id}"># ${item.id}</a></p>
 </details>`;
-    fs.appendFileSync('list.md', result, (err) => {if (err) conlose.log(err)});
+    fs.appendFileSync('README.md', result, (err) => {if (err) conlose.log(err)});
   })
 }
 
