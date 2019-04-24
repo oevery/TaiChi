@@ -4,12 +4,22 @@ const FileSync = require('lowdb/adapters/FileSync')
 const adapter = new FileSync('db.json')
 const db = low(adapter)
 
+//降序排列
+function compare(property){
+  return function(obj1,obj2){
+      var value1 = obj1[property];
+      var value2 = obj2[property];
+      return value2 - value1;
+  }
+}
+
 async function write() {
   const posts = await db.get('posts').value()
+  const sortPosts = await posts.sort(compare('id'));
   const baseUrl = 'https://api.github.com/repos/taichi-framework/TaiChi/issues/';
   const des = '# TaiChi-ModuleList\n\n## 本列表为从太极 issues 列表抓取的信息，不对正确率以及覆盖率作任何保证，仅供尝鲜使用，佛系维护此份列表。';
   fs.appendFileSync('README.md', des, (err) => {if (err) conlose.log(err)});
-  posts.map(async (item) => {
+  sortPosts.map(async (item) => {
     const result = `\n\n<details>
   <summary>${item.name}</summary>
   <p>模块用途：${item.use}</p>
