@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "axios": "^0.18.0",
+    "fs": "^0.0.1-security",
+    "lowdb": "^1.0.0",
+    "qs": "^6.7.0"
+  }
+}
