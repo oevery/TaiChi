@@ -3,6 +3,123 @@
 ## 本列表为从太极 issues 列表抓取的信息，不对正确率以及覆盖率作任何保证，仅供尝鲜使用，佛系维护此份列表。
 
 <details>
+  <summary>应用管理Xposed</summary>
+  <h3>模块用途：</h3>
+  <p>绿色应用，微信gcm代收，划卡清理应用后台，锁屏清理后台，自启动/权限管理等一系列功能<br></p>
+  <h3>更新日志：</h3>
+  <p><br> - Android O和P采用新的任务模糊方案。<br> - 修复排除的系统系统应用依然被乖巧。<br> - 陆续更新图标，采用Remix icon。<br></p>
+  <h3>模块版本号：</h3>
+  <p><br>5.2.1<br></p>
+  <h3>模块安装包：</h3>
+  <p><br>https://github.com/Tornaco/X-APM/releases/tag/5.2.1<br></p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/746"># 746</a></p>
+</details>
+
+<details>
+  <summary>WeXposed（微x模块）41_2.1</summary>
+  <h3>模块用途：</h3>
+  <p></p>
+  <h3>更新日志：</h3>
+  <p>代码重构</p>
+  <h3>模块版本号：</h3>
+  <p>2.1</p>
+  <h3>模块安装包：</h3>
+  <p>https://www.lanzous.com/i40m01c</p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/743"># 743</a></p>
+</details>
+
+<details>
+  <summary>音量增强器</summary>
+  <h3>模块用途：</h3>
+  <p></p>
+  <h3>更新日志：</h3>
+  <p>Fix module not working caused by R8<br></p>
+  <h3>模块版本号：</h3>
+  <p>0.0.33</p>
+  <h3>模块安装包：</h3>
+  <p>https://github.com/bin456789/Unblock163MusicClient-Xposed/releases/tag/0.0.33</p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/741"># 741</a></p>
+</details>
+
+<details>
+  <summary>BiliRoaming（哔哩漫游）</summary>
+  <h3>模块用途：</h3>
+  <p>绕过地区限制，观看港澳台番剧</p>
+  <h3>更新日志：</h3>
+  <p></p>
+  <h3>模块版本号：</h3>
+  <p>1.0.8</p>
+  <h3>模块安装包：</h3>
+  <p>https://github.com/iAcn/BiliRoaming/releases/download/v1.0.8/BiliRoaming_1.0.8.apk<br><br><br><br>太极只支持到1.0.7，作者已经更新到1.0.8版本了，希望可以添加相关的支持。<br>已经和作者沟通过，作者同意到太极这里提交支持。<br>具体见<br> https://github.com/iAcn/BiliRoaming/issues/6</p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/737"># 737</a></p>
+</details>
+
+<details>
+  <summary>全民K歌辅助</summary>
+  <h3>模块用途：</h3>
+  <p></p>
+  <h3>更新日志：</h3>
+  <p>新版本K歌支持， 新增直播间欢迎功能</p>
+  <h3>模块版本号：</h3>
+  <p>1.3</p>
+  <h3>模块安装包：</h3>
+  <p>https://github.com/jiumoshou/karorkefz/blob/master/karorfz_1.3.apk</p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/732"># 732</a></p>
+</details>
+
+<details>
+  <summary>小米机型伪装模块</summary>
+  <h3>模块用途：</h3>
+  <p></p>
+  <h3>更新日志：</h3>
+  <p>性能优化，减少耗电</p>
+  <h3>模块版本号：</h3>
+  <p>0.3.6.20190429.af38eb3</p>
+  <h3>模块安装包：</h3>
+  <p>https://github.com/MiPushFramework/MiPushFramework/releases/download/0.3.6.20190429.af38eb3/xmsf_service.apk</p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/731"># 731</a></p>
+</details>
+
+<details>
+  <summary>小米凈化</summary>
+  <h3>模块用途：</h3>
+  <p></p>
+  <h3>更新日志：</h3>
+  <p>未寫日志</p>
+  <h3>模块版本号：</h3>
+  <p>2.1.7</p>
+  <h3>模块安装包：</h3>
+  <p>http://t.cn/ESSsXtW</p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/729"># 729</a></p>
+</details>
+
+<details>
+  <summary>Google助手</summary>
+  <h3>模块用途：</h3>
+  <p></p>
+  <h3>更新日志：</h3>
+  <p>- 适配 9.72.4、9.78.3 <br></p>
+  <h3>模块版本号：</h3>
+  <p>1.9.1<br></p>
+  <h3>模块安装包：</h3>
+  <p>https://www.coolapk.com/apk/com.elderdrivers.googlesearchbox</p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/723"># 723</a></p>
+</details>
+
+<details>
+  <summary>GetVideo</summary>
+  <h3>模块用途：</h3>
+  <p>登录自己的视频网站会员账号后，可以解析出视频文件的下载链接，将视频文件保存到本地欣赏</p>
+  <h3>更新日志：</h3>
+  <p></p>
+  <h3>模块版本号：</h3>
+  <p>V1.3.0</p>
+  <h3>模块安装包：</h3>
+  <p>链接<br>https://pan.baidu.com/s/1ASm8NlTDUoA9YRVYAFIjxQ    提取码<br>ufmv </p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/716"># 716</a></p>
+</details>
+
+<details>
   <summary>钉钉助手(抢红包版)</summary>
   <h3>模块用途：</h3>
   <p></p>
@@ -117,6 +234,19 @@
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/cuily.xp1<br></p>
   <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/672"># 672</a></p>
+</details>
+
+<details>
+  <summary>ButteredToast</summary>
+  <h3>模块用途：</h3>
+  <p>向 Toast消息头部添加 Toast弹出者的应用名<br>就是在toast通知上显示是来自哪个应用的<br></p>
+  <h3>更新日志：</h3>
+  <p></p>
+  <h3>模块版本号：</h3>
+  <p>1.1<br></p>
+  <h3>模块安装包：</h3>
+  <p>https://www.coolapk.com/apk/me.zjns.butteredtoast<br><br></p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/671"># 671</a></p>
 </details>
 
 <details>
@@ -250,6 +380,19 @@
 </details>
 
 <details>
+  <summary>一键朋友圈</summary>
+  <h3>模块用途：</h3>
+  <p>汇聚微信朋友圈热门转发趣图，朋友圈搞笑群视频，10秒小视频，朋友圈文字配图，早安、晚安问候语、微商文案素材等精选资源，让你的朋友圈不再单调无趣。<br><br>功能特点<br><br>1、自带图文搜索功能，并按热门、搞笑、配图、微商、表情包、励志、百科、英文等分类对朋友圈热门资源进行整理归类，让您能迅速找到您所需的素材。<br>2、自带#话题#功能，能对同一系列的相关配图、文案等进行聚类。<br>3、每日更新大量高清、无水印文字配图，热门搞笑图片等<br>4、新增九宫格图片批量保存功能，能一次下载9张图片，再也不用您一张张手动保存啦！<br><br>目前支持微信最新的三个版本6.7.3、7.0.0、7.0.3，支持EdXposed框架（已测试）<br>如果您在使用过程中遇到任何问题或有更好的使用建议，欢迎您与我们联系<br></p>
+  <h3>更新日志：</h3>
+  <p></p>
+  <h3>模块版本号：</h3>
+  <p>1.0.2</p>
+  <h3>模块安装包：</h3>
+  <p>https://repo.xposed.info/module/com.wxapp.moment<br></p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/640"># 640</a></p>
+</details>
+
+<details>
   <summary>QNotified</summary>
   <h3>模块用途：</h3>
   <p>QNotified(QQ删好友通知)通过定期刷新QQ好友列表判断是否有好友删除用户，并在检测到被好友删除后向用户发出通知提醒。</p>
@@ -286,6 +429,19 @@
   <h3>模块安装包：</h3>
   <p>https://raw.githubusercontent.com/VwEl/-/master/wu-kong-v1.8.4-167314-o_1d65h521a1p571c46198namq1fpsq-uid-1131019.apk<br></p>
   <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/633"># 633</a></p>
+</details>
+
+<details>
+  <summary>网速监测xp版</summary>
+  <h3>模块用途：</h3>
+  <p>锤子SmartisanOS状态栏网速显示，我是此模块的开发者，普通版已经上架锤子应用市场，在群里面有人提议我申请支持下太极-Magisk版，所以前来申请下。</p>
+  <h3>更新日志：</h3>
+  <p></p>
+  <h3>模块版本号：</h3>
+  <p>1.3</p>
+  <h3>模块安装包：</h3>
+  <p>https://share.weiyun.com/53yR5Da<br></p>
+  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/629"># 629</a></p>
 </details>
 
 <details>
@@ -351,19 +507,6 @@
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/io.shortway.appcontext_v16_a8fecb.apk<br><br></p>
   <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/615"># 615</a></p>
-</details>
-
-<details>
-  <summary> 应用管理Xposed</summary>
-  <h3>模块用途：</h3>
-  <p> 绿色应用，微信gcm代收，划卡清理应用后台，锁屏清理后台，自启动/权限管理等一系列功能<br></p>
-  <h3>更新日志：</h3>
-  <p></p>
-  <h3>模块版本号：</h3>
-  <p> P-5.1.7<br></p>
-  <h3>模块安装包：</h3>
-  <p>应用管理_P-5.1.7.apk<br>https://pan.baidu.com/s/1mFVnxaQgAH6A5rKL-B5sjg<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/614"># 614</a></p>
 </details>
 
 <details>
@@ -910,19 +1053,6 @@
   <h3>模块安装包：</h3>
   <p><br>[com.rong.xposed.fakelocation.zip](https://github.com/taichi-framework/TaiChi/files/2948299/com.rong.xposed.fakelocation.zip)<br>或者<br>[mocklocation_v1_135e3b.zip](https://github.com/taichi-framework/TaiChi/files/2948302/mocklocation_v1_135e3b.zip)<br><br></p>
   <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/466"># 466</a></p>
-</details>
-
-<details>
-  <summary>应用管理</summary>
-  <h3>模块用途：</h3>
-  <p>限制应用自启、应用权限管理等，目前手机200多个应用全靠这个压着，不然开机后点都点不动</p>
-  <h3>更新日志：</h3>
-  <p></p>
-  <h3>模块版本号：</h3>
-  <p>5.1.5</p>
-  <h3>模块安装包：</h3>
-  <p>https://github.com/Tornaco/X-APM/releases/download/5.1.5/x-apm-app-release-aio.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/462"># 462</a></p>
 </details>
 
 <details>

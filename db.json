@@ -1,266 +1,250 @@
 {
   "posts": [
     {
-      "id": 420,
-      "name": "MIUI息屏显示通知图标",
-      "use": "MIUI只有数个应用的图标能在AOD显示，这个模块使所有应用程序都可以在息屏显示上显示通知图标。",
-      "changelog": null,
-      "version": "0.1.1",
-      "package": "https://github.com/ztc1997/MIUIAODNotificationIcon/releases"
-    },
-    {
-      "id": 422,
-      "name": "SerialNumberChanger",
-      "use": "伪装设备SN硬件序列号",
-      "changelog": null,
-      "version": "2.1",
-      "package": "https://repo.xposed.info/module/com.intplus.idchanger"
-    },
-    {
-      "id": 424,
-      "name": "ColorOS5.2-Android-8.1",
-      "use": "OPPO手机root后状态栏有红条警告，该模块能隐藏红条等",
-      "changelog": null,
-      "version": "1.3版本",
-      "package": "https://share.weiyun.com/5ujj5Is"
-    },
-    {
-      "id": 588,
-      "name": "麻花助手",
-      "use": "去除启动页广告；去除启动页5s倒计时；去除启动页历史广告显示；去除“推荐”、“电影”、“电视剧”页面中存在的广告；去除视频播放页面的广告；为助手添加图标；为助手添加设置菜单；获取视频播放地址（测试）；去除主界面升级提示。",
-      "changelog": "1新增测试模块SharePlugin，假装分享功能，支持微信朋友圈、微信、QQ、QQ空间、微博分享，使用此功能前请先看帮助文档；2此版本仅支持麻花影视2.7.0和贝贝影视2.7.0，请使用麻花影视2.6.1版本的用户不要更新此版本。",
-      "version": "0.7.0",
-      "package": "https://github.com/1595901624/mhzs/releaseshttps://www.lanzous.com/b614986/4uk6"
-    },
-    {
       "id": 430,
-      "name": "NoLockHome",
+      "name": "No Lock  Home",
       "use": "在检测到手机连接上特定的WiFi（通过MAC或SSID判断）或者基站后，点亮手机、解锁时不需要密码、也不需要指纹。",
-      "changelog": null,
+      "changelog": "",
       "version": "2.2.1",
-      "package": "（将`.zip`改为`.apk`）[NoLockHome_2.2.1.zip](https://github.com/taichi-framework/TaiChi/files/2926420/No.Lock.Home_2.2.1.zip)"
+      "package": "（将`.zip`改为`.apk`）<br>[No Lock Home_2.2.1.zip](https://github.com/taichi-framework/TaiChi/files/2926420/No.Lock.Home_2.2.1.zip)"
     },
     {
       "id": 431,
       "name": "V++",
-      "use": null,
-      "changelog": "修复因没安装机器人导致无法正常使用，找不到入口问题主界面增加版本更新功能增加绑定机器人实验功能",
+      "use": "",
+      "changelog": "修复因没安装机器人导致无法正常使用，找不到入口问题<br>主界面 增加版本更新功能<br>增加绑定机器人实验功能",
       "version": "1.0.5",
       "package": "https://dl-xda.xposed.info/modules/cn.qssq666.wechat.plus_v6_7f321d.apk"
     },
     {
-      "id": 437,
-      "name": "抖音助手",
-      "use": null,
-      "changelog": "支持抖音5.3",
-      "version": "4.3",
-      "package": "链接:https://pan.baidu.com/s/1wRZYyZF8uDQWvSBqZGx1AQ提取码:3xbm"
-    },
-    {
       "id": 499,
       "name": "小米净化",
-      "use": "·解决hosts去广告导致系统提示网络异常的问题·更新适配最新个性主题xx·修复一些细节问题",
-      "changelog": null,
+      "use": "修复核心破解兼容android pie<br>修复隐藏应用名称支持隐藏文件夹名称",
+      "changelog": "",
       "version": "2.1.6",
-      "package": "链接：https://pan.baidu.com/s/1J-8Fa-fQ51_OZlESWYtIFQ提取码：2lhv"
+      "package": "链接：https://pan.baidu.com/s/1J-8Fa-fQ51_OZlESWYtIFQ 提取码：2lhv<br>"
     },
     {
       "id": 441,
-      "name": "支付宝装x",
+      "name": "支付宝装x模块",
       "use": "修改本地支付宝会员",
-      "changelog": null,
+      "changelog": "",
       "version": "2.28",
       "package": "https://www.coolapk.com/apk/im.hoho.alipayInstallB"
     },
     {
       "id": 442,
       "name": "抖音插件",
-      "use": null,
+      "use": "",
       "changelog": "适配抖音5.3.0",
       "version": "2.5.0",
       "package": "https://share.weiyun.com/5NkfPoV"
     },
     {
-      "id": 446,
-      "name": "微视助手",
-      "use": "去水印下载，去广告，禁用更新，去除时间限制，自动点赞",
-      "changelog": null,
-      "version": "1.6.6",
-      "package": "https://pan.baidu.com/s/1haQhP58VuaHG80PIIMpPSA提取码：yt4a"
-    },
-    {
       "id": 448,
       "name": "InstantFaceUnlock",
       "use": "人脸识别后自动上滑",
-      "changelog": null,
+      "changelog": "",
       "version": "2.1.0",
-      "package": "[模块链接XposedInfo](https://dl-xda.xposed.info/modules/com.samstenner.instantunlock_v9_c2a17c.apk)"
+      "package": "[模块链接Xposed Info](https://dl-xda.xposed.info/modules/com.samstenner.instantunlock_v9_c2a17c.apk)"
     },
     {
       "id": 451,
-      "name": "FlatStyleBarIndicators",
+      "name": "Flat Style Bar Indicators",
       "use": "对状态栏进行美化",
-      "changelog": null,
+      "changelog": "",
       "version": "5.1.3",
-      "package": "安装包：https://www.lanzous.com/i3couod源地址：https://repo.xposed.info/module/com.bocharov.xposed.fsbi"
+      "package": "安装包：https://www.lanzous.com/i3couod<br>源地址：https://repo.xposed.info/module/com.bocharov.xposed.fsbi"
     },
     {
       "id": 452,
       "name": "绿色守护Greenify",
       "use": "全局用后台管理",
-      "changelog": null,
+      "changelog": "",
       "version": "4.6.3",
-      "package": "安装包：https://www.coolapk.com/apk/com.oasisfeng.greenify源地址：None"
+      "package": "安装包：https://www.coolapk.com/apk/com.oasisfeng.greenify"
     },
     {
       "id": 453,
-      "name": "PerfectColorBar#",
-      "use": "对状态栏，导航栏还有Toast进行美化#",
-      "changelog": null,
+      "name": "PerfectColorBar",
+      "use": "对状态栏，导航栏还有Toast进行美化",
+      "changelog": "",
       "version": "1.5.2/1.5.3",
-      "package": "安装包：[PerfectColorBarV1.5.2最后一版支持MIUI的](https://www.lanzous.com/i3cq9yj)@weishu"
+      "package": "安装包：[PerfectColorBar V1.5.2 最后一版支持MIUI的](https://www.lanzous.com/i3cq9yj)"
     },
     {
       "id": 622,
       "name": "钉钉助手",
-      "use": "钉钉辅助模块，实现模拟位置，taichi.cool上的钉钉打卡为盗版，同一地点无法产生多个经纬度，请予以支持",
-      "changelog": "适配钉钉4.6.21版本",
-      "version": "1.1.2",
+      "use": "",
+      "changelog": "适配钉钉4.6.21版本<br>",
+      "version": "1.1.2<br>",
       "package": "https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v4_704244.apk"
     },
     {
       "id": 457,
       "name": "FakeGApps",
       "use": "用于MicroG的签名伪装",
-      "changelog": null,
+      "changelog": "",
       "version": "2.0",
-      "package": "安装包地址：https://dl-xda.xposed.info/modules/com.thermatk.android.xf.fakegapps_v3_bfc686.apk源地址：https://repo.xposed.info/module/com.thermatk.android.xf.fakegapps"
+      "package": "安装包地址：https://dl-xda.xposed.info/modules/com.thermatk.android.xf.fakegapps_v3_bfc686.apk<br>源地址：https://repo.xposed.info/module/com.thermatk.android.xf.fakegapps"
     },
     {
       "id": 458,
       "name": "TumblrAdAway",
       "use": "tumblr去广告",
-      "changelog": null,
+      "changelog": "",
       "version": "v1.8",
       "package": "https://github.com/apsun/TumblrAdAway/releases/download/v1.8/TumblrAdAway-1.8.apk"
     },
     {
-      "id": 462,
-      "name": "应用管理",
-      "use": "限制应用自启、应用权限管理等，目前手机200多个应用全靠这个压着，不然开机后点都点不动",
-      "changelog": null,
-      "version": "5.1.5",
-      "package": "https://github.com/Tornaco/X-APM/releases/download/5.1.5/x-apm-app-release-aio.apk"
-    },
-    {
-      "id": 466,
-      "name": "fake location",
-      "use": "模拟位置",
-      "changelog": null,
-      "version": "",
-      "package": "[com.rong.xposed.fakelocation.zip]或者[mocklocation_v1_135e3b.zip](https://github.com/taichi-framework/TaiChi/files/2948302/mocklocation_v1_135e3b.zip)"
-    },
-    {
       "id": 468,
-      "name": "AppTranslator(应用翻译器)",
-      "use": null,
-      "changelog": "新增支持EdXposed修复自定义翻译接口修复Flyme7上应用数据丢失问题新增翻译文本分析，最高可节省50%字数（注：不适用于自定义API）修复网页翻译在某些ROM上不能显示原文的问题修复MiniPatcher模块导致重启应用数据丢失问题(感谢@雷小生丶帮忙查找原因)修复某些ROM上被翻译应用出现卡顿的问题新增邮箱登录修复百度语言检测接口优化翻译成功率优化应用列表优化用户名设置修复自定义翻译API失效问题修复滑动时误触发悬浮翻译菜单问题优化无需启用\"Xposed资源钩子\"仍可使用优雅的悬浮翻译菜单优化应用列表加载体验以及一些细节优化",
+      "name": "App Translator (应用翻译器)",
+      "use": "",
+      "changelog": "新增 支持 EdXposed<br>修复 自定义翻译接口<br>修复 Flyme 7 上应用数据丢失问题<br>新增 翻译文本分析，最高可节省 50% 字数（注：不适用于自定义 API）<br>修复 网页翻译在某些 ROM 上不能显示原文的问题<br>修复 MiniPatcher 模块导致重启应用数据丢失问题 (感谢 @雷小生丶帮忙查找原因)<br>修复 某些 ROM 上被翻译应用出现卡顿的问题<br>新增 邮箱登录<br>修复 百度语言检测接口<br>优化 翻译成功率<br>优化 应用列表<br>优化 用户名设置<br>修复 自定义翻译 API 失效问题<br>修复 滑动时误触发悬浮翻译菜单问题<br>优化 无需启用 \"Xposed 资源钩子\" 仍可使用优雅的悬浮翻译菜单<br>优化 应用列表加载体验<br>以及一些细节优化",
       "version": "1.1.5",
       "package": "https://www.coolapk.com/apk/com.lerist.xposed.apptranslator"
-    },
-    {
-      "id": 470,
-      "name": "音效增强器",
-      "use": "听qq音乐无版权歌曲",
-      "changelog": null,
-      "version": "1.7",
-      "package": ""
     },
     {
       "id": 472,
       "name": "Rootcolak",
       "use": "防止程序root检测",
-      "changelog": null,
-      "version": "3.0",
-      "package": "链接:https://pan.baidu.com/s/1KZ5233KTSCJ_xfjzIqmgzg提取码:krce"
+      "changelog": "新增 支持 EdXposed<br>修复 自定义翻译接口<br>修复 Flyme 7 上应用数据丢失问题<br>新增 翻译文本分析，最高可节省 50% 字数（注：不适用于自定义 API）<br>修复 网页翻译在某些 ROM 上不能显示原文的问题<br>修复 MiniPatcher 模块导致重启应用数据丢失问题 (感谢 @雷小生丶帮忙查找原因)<br>修复 某些 ROM 上被翻译应用出现卡顿的问题<br>新增 邮箱登录<br>修复 百度语言检测接口<br>优化 翻译成功率<br>优化 应用列表<br>优化 用户名设置<br>修复 自定义翻译 API 失效问题<br>修复 滑动时误触发悬浮翻译菜单问题<br>优化 无需启用 \"Xposed 资源钩子\" 仍可使用优雅的悬浮翻译菜单<br>优化 应用列表加载体验<br>以及一些细节优化",
+      "version": "1.1.5",
+      "package": "https://www.coolapk.com/apk/com.lerist.xposed.apptranslator"
     },
     {
       "id": 473,
       "name": "云村清洁工",
-      "use": null,
-      "changelog": "rewritesomecode.fixsomebug.compatiblewithnewneteasemusicversion.removesomeuselessfeature.nolongersupportversionthatlowerthan5.5.2",
+      "use": "",
+      "changelog": "rewrite some code.<br>fix some bug.<br>compatible with new netease music version.<br>remove some useless feature.<br>no longer support version that lower than 5.5.2",
       "version": "2.7.0",
       "package": "https://github.com/zjns/PureNeteaseCloudMusic-Xposed/releases/tag/2.7.0"
     },
     {
-      "id": 477,
+      "id": 655,
       "name": "GoogleAPP助手",
-      "use": null,
-      "changelog": "支持9.41.2",
-      "version": "1.8.3",
+      "use": "",
+      "changelog": "适配 9.51.x，9.58.x，9.61.x，9.66.x",
+      "version": "1.8.8",
       "package": "https://www.coolapk.com/apk/com.elderdrivers.googlesearchbox"
     },
     {
-      "id": 481,
-      "name": "重力工具箱GravityBox[O]",
-      "use": "重力工具箱GravityBox[O}是一款依赖Xposed框架支持的全能系统设置DIY工具。支持：安卓4.4电池图标美化、状态栏图标美化、时间居中显示、支持数字电量、全局透明度开启、隐藏SIM卡提示和显示、增加高级电源菜单、修改快捷下拉栏、简单开启虚拟按键功能、自带按键救星功能、关机菜单加入截屏功能、旧式电视CRT关屏特效、恢复开发者选项、锁屏快速程序启动等等重力工具箱GravityBox是一款依赖Xposed框架支持的全能系统工具，支持修改ROM的部分系统级重要参数。",
-      "changelog": null,
-      "version": "8,5.2",
-      "package": "[com.ceco.oreo.gravitybox.apk.zip](https://github.com/taichi-framework/TaiChi/files/2952905/com.ceco.oreo.gravitybox.apk.zip)猛然发现支持Pie的重力工具箱了，因而请求支持支持Oreo的"
+      "id": 420,
+      "name": "MIUI 息屏显示通知图标",
+      "use": "MIUI 只有数个应用的图标能在 AOD 显示，这个模块使所有应用程序都可以在息屏显示上显示通知图标。",
+      "changelog": "",
+      "version": "0.1.1",
+      "package": "https://github.com/ztc1997/MIUIAODNotificationIcon/releases"
+    },
+    {
+      "id": 422,
+      "name": "Serial Number Changer",
+      "use": "伪装设备SN硬件序列号",
+      "changelog": "",
+      "version": "2.1",
+      "package": "https://repo.xposed.info/module/com.intplus.idchanger"
+    },
+    {
+      "id": 424,
+      "name": "ColorOS5.2-Android-8.1-模块",
+      "use": "OPPO手机root后状态栏有红条警告，该模块能隐藏红条等",
+      "changelog": "",
+      "version": "1.3版本",
+      "package": "https://share.weiyun.com/5ujj5Is"
     },
     {
       "id": 483,
-      "name": "Xglyph²",
+      "name": "nXglyph²",
       "use": "一款名为Ingress的现实增强游戏的辅助工具",
-      "changelog": null,
+      "changelog": "",
       "version": "1.8.1",
-      "package": "https://forum.xda-developers.com/xposed/modules/mod-xglyph-ingress-glyph-game-mods-t3455025https://repo.xposed.info/module/com.cypher.xglyph2https://github.com/Cypher01/Xglyph2"
+      "package": "https://share.weiyun.com/5TNPFs4"
     },
     {
       "id": 484,
-      "name": "ForceimmersiveMode",
+      "name": "Force immersive Mode",
       "use": "APP强制全屏显示",
-      "changelog": null,
+      "changelog": "",
       "version": "V3.04",
       "package": "[com.hamzahrmalik.immersiveforcer-3.0.4-13.zip](https://github.com/taichi-framework/TaiChi/files/2955795/com.hamzahrmalik.immersiveforcer-3.0.4-13.zip)"
+    },
+    {
+      "id": 500,
+      "name": "Sudohide",
+      "use": "对一个应用隐藏另一个应用",
+      "changelog": "",
+      "version": "1.28",
+      "package": "https://repo.xposed.info/module/com.sudocode.sudohide"
+    },
+    {
+      "id": 484,
+      "name": "Device ID Masker Pro",
+      "use": "伪装设备信息",
+      "changelog": "",
+      "version": "1.16",
+      "package": "谷歌:<br>https://play.google.com/store/apps/details?id=zone.bytesreverser.xposeddeviceidmasker<br>百度云:<br>https://pan.baidu.com/s/10vf-8QvKq5HRyejVI__Gwg 密码：qiwe"
+    },
+    {
+      "id": 588,
+      "name": "麻花助手",
+      "use": "",
+      "changelog": "1新增测试模块 SharePlugin，假装分享功能，支持微信朋友圈、微信、QQ、QQ空间、微博分享，使用此功能前请先看帮助文档；<br>2此版本仅支持麻花影视 2.7.0和贝贝影视 2.7.0，请使用麻花影视 2.6.1版本的用户不要更新此版本。",
+      "version": "0.7.0",
+      "package": "https://github.com/1595901624/mhzs/releases<br><br>https://www.lanzous.com/b614986/     4uk6"
+    },
+    {
+      "id": 692,
+      "name": "抖音助手",
+      "use": "",
+      "changelog": "适配抖音5.7.0",
+      "version": "4.4.0",
+      "package": "[com.sky.xposed.aweme_4.4.0_57.zip](https://github.com/taichi-framework/TaiChi/files/3100945/com.sky.xposed.aweme_4.4.0_57.zip)"
+    },
+    {
+      "id": 446,
+      "name": "微视助手",
+      "use": "去水印下载，去广告，禁用更新，去除时间限制，自动点赞",
+      "changelog": "",
+      "version": "1.6.6",
+      "package": "https://pan.baidu.com/s/1haQhP58VuaHG80PIIMpPSA 提取码：yt4a<br>"
+    },
+    {
+      "id": 466,
+      "name": "【模拟位置 fake location】或者mock location",
+      "use": "模拟位置",
+      "changelog": "",
+      "version": "",
+      "package": "<br>[com.rong.xposed.fakelocation.zip](https://github.com/taichi-framework/TaiChi/files/2948299/com.rong.xposed.fakelocation.zip)<br>或者<br>[mocklocation_v1_135e3b.zip](https://github.com/taichi-framework/TaiChi/files/2948302/mocklocation_v1_135e3b.zip)<br><br>"
+    },
+    {
+      "id": 470,
+      "name": "音效增强器",
+      "use": " 听qq音乐无版权歌曲",
+      "changelog": "",
+      "version": "1.7",
+      "package": "<br>[com.rong.xposed.fakelocation.zip](https://github.com/taichi-framework/TaiChi/files/2948299/com.rong.xposed.fakelocation.zip)<br>或者<br>[mocklocation_v1_135e3b.zip](https://github.com/taichi-framework/TaiChi/files/2948302/mocklocation_v1_135e3b.zip)<br><br>"
+    },
+    {
+      "id": 481,
+      "name": "重力工具箱Gravity Box [O]",
+      "use": "重力工具箱GravityBox [O}是一款依赖Xposed框架支持的全能系统设置DIY工具。<br>支持：安卓4.4电池图标美化、状态栏图标美化、时间居中显示、支持数字电量、全局透明度开启、隐藏SIM卡提示和显示、增加高级电源菜单、修改快捷下拉栏、简单开启虚拟按键功能、自带按键救星功能、关机菜单加入截屏功能、旧式电视CRT关屏特效、恢复开发者选项、锁屏快速程序启动等等<br>重力工具箱GravityBox是一款依赖Xposed框架支持的全能系统工具，支持修改ROM的部分系统级重要参数。<br>",
+      "changelog": "",
+      "version": "8,5.2",
+      "package": "[com.ceco.oreo.gravitybox.apk.zip](https://github.com/taichi-framework/TaiChi/files/2952905/com.ceco.oreo.gravitybox.apk.zip)<br><br>猛然发现支持Pie的重力工具箱了，因而请求支持支持Oreo的"
     },
     {
       "id": 494,
       "name": "ScanLogin",
       "use": "app扫码登陆自动确认",
-      "changelog": null,
+      "changelog": "",
       "version": "1.3.0",
       "package": "https://github.com/wangzailfm/ScanLogin/blob/master/app/ScanLogin_1.3.0.apk?raw=true"
     },
     {
-      "id": 498,
-      "name": "XposededgeProv5.3",
-      "use": "手势",
-      "changelog": null,
-      "version": "5.3",
-      "package": "https://github.com/taichi-framework/TaiChi/issues/309"
-    },
-    {
-      "id": 500,
-      "name": "Sudohide",
-      "use": "对一个应用隐藏另一个应用。使之不被检测到",
-      "changelog": null,
-      "version": "1.28",
-      "package": "https://repo.xposed.info/module/com.sudocode.sudohide"
-    },
-    {
-      "id": 501,
-      "name": "Device ID Masker Pro",
-      "use": "伪装设备信息",
-      "changelog": null,
-      "version": "1.16",
-      "package": "谷歌:https://play.google.com/store/apps/details?id=zone.bytesreverser.xposeddeviceidmasker 百度云:https://pan.baidu.com/s/10vf-8QvKq5HRyejVI__Gwg 密码：qiwe"
-    },
-    {
       "id": 506,
       "name": "q++",
-      "use": null,
-      "changelog": "修复可能打不开qq的问题修复某些手机概率性无法领取红包问题",
+      "use": "",
+      "changelog": "修复可能打不开qq的问题<br>修复某些手机概率性无法领取红包问题",
       "version": "1.2.7",
       "package": "https://dl-xda.xposed.info/modules/cn.qssq666.q.plus_v41_1205ba.apk"
     },
@@ -268,150 +252,126 @@
       "id": 508,
       "name": "设备ID更改器",
       "use": "模拟设备ID",
-      "changelog": null,
+      "changelog": "",
       "version": "1.5.3",
-      "package": "https://www.coolapk.com/apk/com.phoneinfo.changerpro"
+      "package": "https://www.coolapk.com/apk/com.phoneinfo.changerpro<br>"
     },
     {
       "id": 512,
-      "name": "XPrivacyLuaPro",
+      "name": "XPrivacyLua Pro",
       "use": "可以在XPrivacyLua的基础上进行选项或hook自定义",
-      "changelog": null,
+      "changelog": "",
       "version": "0.73",
       "package": "https://play.google.com/store/apps/details?id=eu.faircode.xlua.pro"
     },
     {
-      "id": 516,
-      "name": "AndroidIdChanger",
-      "use": "一键随机修改设备信息",
-      "changelog": null,
-      "version": "1.24",
-      "package": "https://github.com/bigsinger/AndroidIdChanger"
-    },
-    {
       "id": 518,
       "name": "小熊跑步",
-      "use": "跑步手机模拟软件，悦动圈等跑步软件皆可模拟里程，也可模拟步数，修改支付宝步数。",
-      "changelog": null,
-      "version": "1.5.0",
+      "use": "跑步手机模拟软件，悦动圈等跑步软件皆可模拟里程，也可模拟步数，修改支付宝步数。<br>",
+      "changelog": "",
+      "version": "1.5.0<br>",
       "package": "https://www.coolapk.com/apk/com.anjoyo.xyl.run"
     },
     {
       "id": 522,
-      "name": "Undo-撤消",
+      "name": "Undo - 撤消",
       "use": "利用Xposed框架，为你的输入框增加撤销（Ctrl-Z）选项。",
-      "changelog": null,
+      "changelog": "",
       "version": "1.0.4",
-      "package": "https://www.coolapk.com/apk/top.imlk.undo"
+      "package": "https://www.coolapk.com/apk/top.imlk.undo<br>"
     },
     {
       "id": 525,
       "name": "Device_Emulator_Pro_3.53",
-      "use": "偽裝裝置",
-      "changelog": null,
-      "version": "3.53",
-      "package": "https://drive.google.com/file/d/1g3wsUswBGU6y_XdQr1lcx6ZIjZxq6-3O/view?usp=drivesdk"
+      "use": "偽裝裝置<br>",
+      "changelog": "",
+      "version": "3.53<br>",
+      "package": "https://drive.google.com/file/d/1g3wsUswBGU6y_XdQr1lcx6ZIjZxq6-3O/view?usp=drivesdk<br><br>"
     },
     {
       "id": 526,
-      "name": "MockMockLocations",
-      "use": "Someappswon'tletyouusethemif\"Allowmocklocations\"isturnedon,evenifyouaren'tmockingyourlocation.Thishelpspreventappsfromdetectingthat\"Allowmocklocations\"isturnedon.",
-      "changelog": null,
+      "name": "Mock Mock Locations",
+      "use": "Some apps won't let you use them if \"Allow mock locations\" is turned on, even if you aren't mocking your location.<br>This helps prevent apps from detecting that \"Allow mock locations\" is turned on.",
+      "changelog": "",
       "version": "1.4",
-      "package": "https://repo.xposed.info/module/com.brandonnalls.mockmocklocations"
+      "package": "https://repo.xposed.info/module/com.brandonnalls.mockmocklocations<br>"
     },
     {
       "id": 531,
       "name": "钉钉助手(自动抢红包版)",
-      "use": "钉钉自动抢红包与消息防撤回功能",
-      "changelog": null,
-      "version": "v1.1.0版本",
-      "package": "https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v2_486e1b.apk项目源地址https://github.com/sky-wei/xposed-rimet"
+      "use": "钉钉自动抢红包与消息防撤回功能<br>",
+      "changelog": "",
+      "version": "v1.1.0版本<br>",
+      "package": "https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v2_486e1b.apk<br><br>项目源地址<br>https://github.com/sky-wei/xposed-rimet"
     },
     {
       "id": 532,
       "name": "微信机器人",
       "use": "输入手机号，一键自动搜索发送添加微信好友申请",
-      "changelog": null,
+      "changelog": "",
       "version": "1.0.1",
-      "package": "https://pan.baidu.com/s/1Ef2u_T-KzYdBnvPy7ODfUQ密码:yed9"
+      "package": "https://pan.baidu.com/s/1Ef2u_T-KzYdBnvPy7ODfUQ  密码:yed9<br>"
     },
     {
       "id": 533,
-      "name": "XP快译",
-      "use": "翻译软件，无需后台自动翻译剪切板内容并以悬浮窗的形式显示出来，长按可复制",
-      "changelog": null,
-      "version": "3.0.6",
-      "package": "https://www.lanzous.com/i3i9g4f"
+      "name": " XP快译",
+      "use": " <br>翻译软件，无需后台自动翻译剪切板内容并以悬浮窗的形式显示出来，长按可复制<br>",
+      "changelog": "",
+      "version": "3.0.6<br>",
+      "package": "https://www.lanzous.com/i3i9g4f<br><br>"
     },
     {
       "id": 535,
       "name": "绿色守护",
-      "use": null,
-      "changelog": "旧版本，以前支持太极更新后不支持了。使用新版绿色守护闪退，希望重新支持4.3.2.0版本。",
-      "version": "4.3.2.0",
+      "use": "",
+      "changelog": "旧版本，以前支持太极更新后不支持了。使用新版绿色守护闪退，希望重新支持4.3.2.0版本。<br>",
+      "version": "4.3.2.0<br>",
       "package": "https://www.lanzous.com/i3i9o3c"
-    },
-    {
-      "id": 546,
-      "name": "微聚",
-      "use": null,
-      "changelog": "增加屏幕->18:9（测试）增加导航栏->隐藏优化状态栏->隐藏（当没有开启时，就默认显示状态栏@849234594）优化颜色选择器，添加透明度选项",
-      "version": "0.3-beta",
-      "package": "https://www.coolapk.com/apk/io.tvcfish.xposedbox"
-    },
-    {
-      "id": 543,
-      "name": "微X",
-      "use": null,
-      "changelog": "",
-      "version": "2.0",
-      "package": "[WechatXposed_p_39_2.0.zip](https://github.com/taichi-framework/TaiChi/files/2996990/WechatXposed_p_39_2.0.zip)"
     },
     {
       "id": 586,
       "name": "release",
-      "use": "显示动漫之家部分隐藏漫画",
-      "changelog": "固定搜索框位置，修复搜索框消失bug更改漫画源，做到秒刷新。退出APP后自动隐藏图标",
+      "use": "",
+      "changelog": "固定搜索框位置，修复搜索框消失bug<br>更改漫画源，做到秒刷新。<br>退出APP后自动隐藏图标",
       "version": "0.1-δ",
       "package": "https://dl-xda.xposed.info/modules/com.app.legend.dms_v4_2accd7.apk"
     },
     {
       "id": 547,
-      "name": "WeChatMagician（微信巫师）",
-      "use": "WeChatMagician（微信巫师）是一款能够实现防止微信好友撤回聊天消息和微信好友删除朋友圈动态、评论的Xposed框架模块。",
-      "changelog": null,
+      "name": "WeChat Magician（微信巫师）",
+      "use": "WeChat Magician（微信巫师）是一款能够实现防止微信好友撤回聊天消息和微信好友删除朋友圈动态、评论的Xposed框架模块。",
+      "changelog": "",
       "version": "v2.8.0",
-      "package": "https://dl-xda.xposed.info/modules/com.gh0u1l5.wechatmagician_v50_87af1c_0.apk该模块内的微信密友功能较为实用，模块于微信7.0版本后已失效，7.0之前版本仍能使用，如需测试可使用6.7.3版本，谢谢！"
+      "package": "https://dl-xda.xposed.info/modules/com.gh0u1l5.wechatmagician_v50_87af1c_0.apk<br><br>该模块内的微信密友功能较为实用，模块于微信7.0版本后已失效，7.0之前版本仍能使用，如需测试可使用6.7.3版本，谢谢！"
     },
     {
       "id": 707,
       "name": "微信学英语",
-      "use": null,
+      "use": "",
       "changelog": "支持微信7.0.4版本",
-      "version": "v1.7.91(54)",
-      "package": "包名：com.hiwechart.translate蓝奏云：https://www.lanzous.com/i3vwxaj?t"
+      "version": "v1.7.91 (54)",
+      "package": "包名<br>com.hiwechart.translate<br>蓝奏云<br>https://www.lanzous.com/i3vwxaj?t"
     },
     {
       "id": 556,
       "name": "哔哩布丁",
-      "use": null,
-      "changelog": "大概更新支持哔哩哔哩客户端5.39.0（作者没写更新日志）",
-      "version": "1.5.7",
+      "use": "",
+      "changelog": "大概更新支持哔哩哔哩客户端5.39.0（作者没写更新日志）<br>",
+      "version": "1.5.7<br>",
       "package": "https://drive.google.com/file/d/1Djq2kS4cYowzEJadJs7IETCcacJ9YPpx/view?usp=sharing"
     },
     {
       "id": 558,
       "name": "你才长按复制访问",
       "use": "在QQ/WX内直接打开淘宝、抖音等链接",
-      "changelog": null,
+      "changelog": "",
       "version": "0.02",
-      "package": "https://repo.xposed.info/module/com.jy.xposed.webhttps://dl-xda.xposed.info/modules/com.jy.xposed.web_v2_ac063e.apk"
+      "package": "https://repo.xposed.info/module/com.jy.xposed.web<br>https://dl-xda.xposed.info/modules/com.jy.xposed.web_v2_ac063e.apk<br>"
     },
     {
       "id": 560,
       "name": "欅坂メッセージ助手",
-      "use": null,
+      "use": "",
       "changelog": "适配更新",
       "version": "3.3",
       "package": "https://github.com/nondanee/KeyakiMsgAssistant-Xposed"
@@ -419,215 +379,183 @@
     {
       "id": 561,
       "name": "MyHanXiuCao",
-      "use": "破解开车软件含羞草研究所vip权限，仅做测试，勿做他用！By酷安Larson。",
-      "changelog": null,
+      "use": "破解开车软件含羞草研究所vip权限，仅做测试，勿做他用！By 酷安Larson。",
+      "changelog": "",
       "version": "1.4",
-      "package": "https://dl-xda.xposed.info/modules/cn.ainixiang.myhanxiucao_v4_aedffa.apk"
-    },
-    {
-      "id": 655,
-      "name": "googleapp助手",
-      "use": null,
-      "changelog": "适配9.51.x，9.58.x，9.61.x，9.66.x",
-      "version": "1.8.8",
-      "package": "https://www.coolapk.com/apk/com.elderdrivers.googlesearchbox"
+      "package": "https://dl-xda.xposed.info/modules/cn.ainixiang.myhanxiucao_v4_aedffa.apk<br>"
     },
     {
       "id": 564,
       "name": "淘饭饭",
-      "use": null,
-      "changelog": "1.2.41.分享商品邀请好友(口令带上下载链接)2.支持淘宝号重新授权3.支持多设备登录",
+      "use": "",
+      "changelog": "1.2.4<br>1.分享商品邀请好友(口令带上下载链接)<br>2.支持淘宝号重新授权<br>3.支持多设备登录",
       "version": "1.2.4",
       "package": "https://www.coolapk.com/apk/com.jy.taofanfan"
     },
     {
       "id": 571,
-      "name": "GrindrMod[NEW]",
-      "use": null,
-      "changelog": "✓FixmapscrashonAndroidP✓Fixoccasionalappcrashonopeningthemapsoverlaywhenappisinthebackground",
+      "name": "GrindrMod[ NEW]",
+      "use": "",
+      "changelog": "✓ Fix maps crash on Android P✓ Fix occasional app crash on opening the maps overlay when app is in the background",
       "version": "5.5.0",
       "package": "https://repo.xposed.info/module/com.grindrmod.xposed"
     },
     {
-      "id": 646,
-      "name": "Q++",
-      "use": null,
-      "changelog": "解决部分设备闪退bug",
-      "version": "1.3.1",
-      "package": "https://dl-xda.xposed.info/modules/cn.qssq666.q.plus_v45_52bac4.apk"
+      "id": 572,
+      "name": "Q ++",
+      "use": "",
+      "changelog": "解决该版本 QQ空间经常出现闪退的问题 群-情迁设置中的更新和修复 增加艾特全体 艾特用户，禁言功能测试修复。",
+      "version": "1.2.8",
+      "package": "https://dl-xda.xposed.info/modules/cn.qssq666.q.plus_v42_02531b.apk"
     },
     {
       "id": 574,
       "name": "lataclysm",
-      "use": "伪装位置,GPS定位,基站定位,WIFI定位.伪装运营商介绍：https://repo.xposed.info/module/com.cataclysm.i",
-      "changelog": null,
-      "version": "1.35",
-      "package": "https://dl-xda.xposed.info/modules/com.cataclysm.i_v64_037bfa.apk"
+      "use": "伪装位置,GPS定位,基站定位,WIFI定位.伪装运营商<br>介绍：https://repo.xposed.info/module/com.cataclysm.i<br>",
+      "changelog": "",
+      "version": "1.35<br>",
+      "package": "https://dl-xda.xposed.info/modules/com.cataclysm.i_v64_037bfa.apk<br> "
     },
     {
       "id": 641,
       "name": "哔哩漫游",
-      "use": null,
+      "use": "",
       "changelog": "更新",
       "version": "1.0.7",
       "package": "https://github.com/iAcn/BiliRoaming"
     },
     {
+      "id": 646,
+      "name": "Q++",
+      "use": "",
+      "changelog": "解决部分设备闪退bug",
+      "version": "1.3.1",
+      "package": "https://dl-xda.xposed.info/modules/cn.qssq666.q.plus_v45_52bac4.apk"
+    },
+    {
       "id": 585,
       "name": "DroidSword",
       "use": "逆向神器，快速定位UI信息。",
-      "changelog": null,
+      "changelog": "",
       "version": "1.0.4",
       "package": "https://github.com/githubwing/DroidSword/raw/master/app/release/app-release.apk"
     },
     {
-      "id": 587,
-      "name": "Gboard助手",
-      "use": null,
-      "changelog": "支持Gboard8.x",
-      "version": "2.2.2",
-      "package": "https://www.coolapk.com/apk/com.elderdrivers.gboard"
-    },
-    {
       "id": 589,
       "name": "钉钉助手（抢红包助手）",
-      "use": null,
+      "use": "",
       "changelog": "适配钉钉4.6.20",
       "version": "1.1.1",
-      "package": "https://repo.xposed.info/module/com.sky.xposed.rimethttps://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v3_fae19e.apk"
+      "package": "https://repo.xposed.info/module/com.sky.xposed.rimet<br>https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v3_fae19e.apk"
     },
     {
       "id": 590,
       "name": "森林&庄园",
-      "use": "",
-      "changelog": null,
+      "use": "#400 #370 #325 #116 #86 （被打死",
+      "changelog": "",
       "version": "1.1.6t",
-      "package": "https://www.lanzous.com/b596648[森林庄园116e_test.apk]"
+      "package": "https://www.lanzous.com/b596648<br>[ 森林庄园116e_test.apk ]"
     },
     {
       "id": 591,
-      "name": "：edgepro边缘操作拓展",
-      "use": null,
-      "changelog": "Newaction:stopall,stoplooping(multi-actionandrepeat),playingsoundandspeech,injectinggesture,andgesturerecording.Bugfixes.",
-      "version": "：5.4",
-      "package": "：链接:https://pan.baidu.com/s/1S-i9Hl7hogRR1l90ia2x_Q提取码:gki1"
+      "name": "edge pro 边缘操作拓展模块的付费版",
+      "use": "",
+      "changelog": "New action: stop all, stop looping(multi-action and repeat), playing sound and speech, injecting gesture, and gesture recording.<br>Bug fixes.",
+      "version": "5.4",
+      "package": "链接:https://pan.baidu.com/s/1S-i9Hl7hogRR1l90ia2x_Q 提取码:gki1"
     },
     {
       "id": 603,
-      "name": "：阻止运行",
-      "use": "个人感觉阻止运行比绿色守护性能更强，操作简单。阻止app后台启动推送消息",
-      "changelog": null,
-      "version": "：2.7.0",
-      "package": "：下载地址：https://dl-xda.xposed.info/modules/me.piebridge.forcestopgb_v872_69fb0e.apk模块介绍：https://repo.xposed.info/module/me.piebridge.forcestopgb"
-    },
-    {
-      "id": 604,
-      "name": "森林庄园",
-      "use": null,
-      "changelog": "希望weishu能支持一下这个版本，比较好用一点",
-      "version": "116dv2",
-      "package": "https://www.lanzous.com/i3ns4gj"
-    },
-    {
-      "id": 607,
-      "name": "蚂蚁森林助手",
-      "use": null,
-      "changelog": "新增社区功能",
-      "version": "1.3.6",
-      "package": "链接：https://pan.baidu.com/s/1jJ4Xjbl8sg_oLh3PmoNtrw提取码：tiwn"
+      "name": "阻止运行",
+      "use": "个人感觉阻止运行比绿色守护性能更强，操作简单。阻止app后台启动推送消息<br>",
+      "changelog": "",
+      "version": "2.7.0<br>",
+      "package": "<br>下载地址<br>https://dl-xda.xposed.info/modules/me.piebridge.forcestopgb_v872_69fb0e.apk<br>模块介绍<br>https://repo.xposed.info/module/me.piebridge.forcestopgb<br><br>"
     },
     {
       "id": 619,
       "name": "对话框取消",
-      "use": null,
+      "use": "",
       "changelog": "增加禁用对话框关键词检测[已测试:去除爱奇艺更新提示]",
       "version": "1.6.9",
       "package": "http://ainixiang.cn/update/alert/Alert1.6.9.apk"
     },
     {
+      "id": 607,
+      "name": "蚂蚁森林助手",
+      "use": "",
+      "changelog": "新增社区功能<br>",
+      "version": "1.3.6<br>",
+      "package": "链接<br>https://pan.baidu.com/s/1jJ4Xjbl8sg_oLh3PmoNtrw 提取码<br>tiwn "
+    },
+    {
       "id": 610,
       "name": "禁止调节音量",
-      "use": "非系统app就调节不了音量了",
-      "changelog": null,
-      "version": "666",
-      "package": "http://t.cn/EisQYM7"
+      "use": "非系统app就调节不了音量了<br>",
+      "changelog": "",
+      "version": "666<br>",
+      "package": "http://t.cn/EisQYM7<br>"
     },
     {
       "id": 612,
-      "name": "Xposededge",
-      "use": null,
+      "name": "Xposed edge",
+      "use": "",
       "changelog": "bug修复等",
       "version": "5.4.0",
       "package": "https://www.lanzous.com/i3ov8ub"
     },
     {
-      "id": 614,
-      "name": "应用管理Xposed",
-      "use": "绿色应用，微信gcm代收，划卡清理应用后台，锁屏清理后台，自启动/权限管理等一系列功能",
-      "changelog": null,
-      "version": "P-5.1.7",
-      "package": "应用管理_P-5.1.7.apkhttps://pan.baidu.com/s/1mFVnxaQgAH6A5rKL-B5sjg"
-    },
-    {
       "id": 615,
       "name": "AppContext",
-      "use": "HaveTaskerreactonrunningapplications,withoutthedownsidesofthedefaultimplementation!IthooksdirectlyintotheActivity-class,lettingTaskerreactimmediatelywhenanappstarts.Thismeansnomoreperiodiccheckingwhichappisrunning,sonomorebatterydrainandnomoreslowreactions.It'salsoperfectlyaccurateanddoesn'tneedanaccessibilityservice,soyourdevice'sscreenlockcanbeusedforenhanceddataprotectionagain.(ExperimentalsupportforreactingonServicesisalsopresent.)",
-      "changelog": null,
-      "version": "Versionname:0.4.7.2",
-      "package": "https://dl-xda.xposed.info/modules/io.shortway.appcontext_v16_a8fecb.apk"
+      "use": "Have Tasker react on running applications, without the downsides of the default implementation!<br><br>It hooks directly into the Activity-class, letting Tasker react immediately when an app starts. This means no more periodic checking which app is running, so no more battery drain and no more slow reactions. It's also perfectly accurate and doesn't need an accessibility service, so your device's screen lock can be used for enhanced data protection again.<br>(Experimental support for reacting on Services is also present.)<br>",
+      "changelog": "",
+      "version": "Version name: 0.4.7.2<br>",
+      "package": "https://dl-xda.xposed.info/modules/io.shortway.appcontext_v16_a8fecb.apk<br><br>"
     },
     {
       "id": 616,
-      "name": "：XposeedgePro",
-      "use": null,
-      "changelog": "：bug修复等",
-      "version": "：5.4.2",
+      "name": "Xpose edge Pro",
+      "use": "",
+      "changelog": "bug修复等<br>",
+      "version": "5.4.2<br>",
       "package": "https://www.lanzous.com/i3pjx0f"
     },
     {
       "id": 620,
       "name": "myandroidtool-xposed",
       "use": "myandroidtool增强",
-      "changelog": null,
+      "changelog": "",
       "version": "",
       "package": "https://www.coolapk.com/apk/cn.wq.myandroidtoolsxposed"
     },
     {
-      "id": 628,
-      "name": "GravityBoxP",
-      "use": null,
-      "changelog": "Resourcereplacement:---redesignedforbettercompatibilityandperformance---implementedsupportforaliasedresourcespointingtoFrameworkresourcesBatteryStyle:addedactiontoopenpowerusagesummarytocustombatteryicon/percentageinheaderFixedtintingofGravityBoxstatusbarelementswhennotchishiddenonOxygenOSFixedcirclebatteryandpercenttexttintingwhenlockscreenisindarkmodeFixedstockbatteryiconnotrefreshingwhenswitchingbetweenStockandStockwithpercentageFixedSystemUIcrashwhenpowermenudisabledinlockscreenDisplay:fixed\"Unplugturnsonscreen\"notworkingonsomedevicesAdvancedtuning:---fixedmainscreenpreferencesnotfittingthescreenondeviceswithlargefontsize---bettercompatibilitythankstoresourcereplacementredesign(e.g.config_enableLockScreenRotationnowworks)UpdatedRussiantranslations(thankstogaich)UpdatedTurkishtranslations(thankstoFatihFirinci)",
-      "version": "9.0.0-beta-7",
-      "package": "https://github.com/GravityBox/GravityBox/releases/download/v9.0.0-beta-7_p/GravityBox-9.0.0-beta-7.apk"
-    },
-    {
       "id": 633,
-      "name": "悟空加速",
-      "use": "「悟空加速」，加速启动，跳过不要的启动页。",
-      "changelog": null,
+      "name": "  悟空加速",
+      "use": "「悟空加速」，加速启动 ，跳过不要的启动页。",
+      "changelog": "",
       "version": "1.8.4",
-      "package": "https://raw.githubusercontent.com/VwEl/-/master/wu-kong-v1.8.4-167314-o_1d65h521a1p571c46198namq1fpsq-uid-1131019.apk"
+      "package": "https://raw.githubusercontent.com/VwEl/-/master/wu-kong-v1.8.4-167314-o_1d65h521a1p571c46198namq1fpsq-uid-1131019.apk<br>"
     },
     {
       "id": 638,
       "name": "全民辅助",
       "use": "全民k歌启动页广告关闭，歌房语音长按改点击开关",
-      "changelog": null,
+      "changelog": "",
       "version": "1.0",
-      "package": "https://github.com/jiumoshou/karorkefz/blob/master/karorkefz.apk已更新界面"
+      "package": "https://github.com/jiumoshou/karorkefz/blob/master/karorkefz.apk<br>已更新界面"
     },
     {
       "id": 639,
       "name": "QNotified",
       "use": "QNotified(QQ删好友通知)通过定期刷新QQ好友列表判断是否有好友删除用户，并在检测到被好友删除后向用户发出通知提醒。",
-      "changelog": null,
-      "version": "0.1.2(5)",
+      "changelog": "",
+      "version": "0.1.2 (5)",
       "package": "https://github.com/cinit/QNotified/releases/download/v0.1.2/qnotified_012.apk"
     },
     {
       "id": 647,
       "name": "要你命三千",
-      "use": null,
+      "use": "",
       "changelog": "适配新版软件",
       "version": "6.0",
       "package": "微云文件分享:要妳命三千_6.0.apk下载地址:https://share.weiyun.com/5jCRK9I"
@@ -635,124 +563,213 @@
     {
       "id": 648,
       "name": "全名辅助",
-      "use": null,
+      "use": "",
       "changelog": "已知bug修复，加入运行日志。",
       "version": "1.1",
-      "package": "https://github.com/jiumoshou/karorkefz/blob/master/karorfz.apk"
+      "package": "https://github.com/jiumoshou/karorkefz/blob/master/karorfz.apk<br><br>麻烦您了weishu，初步涉足，bug略多,xp没报，太极报了，修复已知，请多多包涵啦，嘿嘿"
     },
     {
       "id": 649,
       "name": "知乎助手",
-      "use": "1.去除首页\"推荐\"内的广告、Live和书店等卡2.去除答案页面底部广告3.屏蔽底部\"方法\"或\"大学\"选项卡4.去除答案列表内的广告",
-      "changelog": null,
+      "use": "1. 去除首页\"推荐\"内的广告、Live和书店等卡<br>2. 去除答案页面底部广告<br>3. 屏蔽底部\"方法\"或\"大学\"选项卡<br>4. 去除答案列表内的广告<br>",
+      "changelog": "",
       "version": "1.0.1",
-      "package": "https://github.com/picone/ZhihuXposed/releases/download/1.0.1/app-release.apk"
+      "package": "https://github.com/picone/ZhihuXposed/releases/download/1.0.1/app-release.apk<br><br>"
     },
     {
       "id": 657,
       "name": "AnInputHook",
-      "use": "记录输入的xposed模块。简单地hook了系统api的一些东西",
-      "changelog": null,
-      "version": "1.1.3",
-      "package": "http://t.cn/EX0JTQP"
+      "use": "记录输入的 xposed模块。简单地 hook了系统 api的一些东西<br>",
+      "changelog": "",
+      "version": "1.1.3<br>",
+      "package": "http://t.cn/EX0JTQP<br>"
     },
     {
       "id": 658,
       "name": "微信群消息助手",
-      "use": null,
-      "changelog": "Android端更新：-支持了微信7.0.4（1420）版本。-修复了获取配置失败还显示成功的问题。-修复了小概率下点击位置错乱和删除会话闪退的问题。-重写了置顶高亮的逻辑，现在可能微信6的一些老版本重新获得了支持。-修复了统计用户处的一个问题。",
+      "use": "",
+      "changelog": "Android 端更新<br> <br><br>- 支持了微信7.0.4（1420）版本。 <br>- 修复了获取配置失败还显示成功的问题。 <br>- 修复了小概率下点击位置错乱和删除会话闪退的问题。 <br>- 重写了置顶高亮的逻辑，现在可能微信6的一些老版本重新获得了支持。 <br>- 修复了统计用户处的一个问题。",
       "version": "1.4.5",
       "package": "https://www.coolapk.com/apk/com.zdy.project.wechat_chatroom_helper"
     },
     {
       "id": 660,
       "name": "红色彗星",
-      "use": "破解P图软件PicsArt登录既是会员",
-      "changelog": null,
-      "version": "1.0",
-      "package": "https://www.lanzous.com/i3sm1ti?t"
+      "use": "破解P图软件PicsArt登录既是会员<br>",
+      "changelog": "",
+      "version": "1.0<br>",
+      "package": "https://www.lanzous.com/i3sm1ti?t<br><br>"
     },
     {
       "id": 661,
-      "name": "全名辅助更名为全民K歌辅助",
-      "use": null,
-      "changelog": "1.已知bug修复2.模块名称更改，更易于辨别在哪使用",
+      "name": "全名辅助  更名为 全民K歌辅助",
+      "use": "",
+      "changelog": "1.已知bug修复<br>2.模块名称更改，更易于辨别在哪使用",
       "version": "1.2",
       "package": "https://github.com/jiumoshou/karorkefz/blob/master/karorfz_1.2.apk"
     },
     {
       "id": 672,
       "name": "亮度保镖",
-      "use": "防止一些应用（如支付宝、微信的付款码）修改亮度。具体做的事情：界面亮度被设置为大于30%时，还原为系统亮度这样子打开收付款界面就不会突然亮瞎眼了",
-      "changelog": null,
+      "use": "防止一些应用（如支付宝、微信的付款码）修改亮度。具体做的事情<br>界面亮度被设置为大于30%时，还原为系统亮度<br>这样子打开收付款界面就不会突然亮瞎眼了",
+      "changelog": "",
       "version": "1.4",
-      "package": "https://www.coolapk.com/apk/cuily.xp1"
+      "package": "https://www.coolapk.com/apk/cuily.xp1<br>"
     },
     {
       "id": 673,
       "name": "JDHistoryPrice(JD历史价格)",
-      "use": "查看京东当前商品的历史价格在京东商品详情页点击分享按钮-其他-选择【JD历史价格】",
-      "changelog": null,
+      "use": "查看京东当前商品的历史价格<br>在京东商品详情页点击<br>分享按钮-其他-选择【JD历史价格】",
+      "changelog": "",
       "version": "0.13",
-      "package": "链接:https://pan.baidu.com/s/13FJFBirWq70OujDseluJ2A提取码:tazg"
+      "package": "链接: https://pan.baidu.com/s/13FJFBirWq70OujDseluJ2A 提取码: tazg <br>"
     },
     {
       "id": 674,
       "name": "Xglyph2",
-      "use": null,
-      "changelog": "改bug",
-      "version": "1.8.2",
+      "use": "",
+      "changelog": "改bug<br>",
+      "version": "1.8.2<br>",
       "package": "https://github.com/Cypher01/Xglyph2"
     },
     {
       "id": 695,
       "name": "进程锁-防止掉后台",
-      "use": null,
-      "changelog": "3.1.5:修改hook方式修复一些bug",
+      "use": "",
+      "changelog": "3.1.5: <br>修改hook方式 <br>修复一些bug",
       "version": "3.1.5_Stable_20190422",
       "package": "https://www.coolapk.com/apk/top.fols.aapp.eternalprocessxposed"
     },
     {
       "id": 701,
-      "name": "HideUSBDebuggingMode",
-      "use": "針對應用程式隱藏USBDebugging狀態，對某些遊戲特別有用。",
-      "changelog": null,
+      "name": "Hide USB Debugging Mode",
+      "use": "針對應用程式隱藏 USB Debugging 狀態，對某些遊戲特別有用。",
+      "changelog": "",
       "version": "1.0",
-      "package": "https://dl-xda.xposed.info/modules/com.redlee90.hideusbdebugging_v1_8f956a.apk"
+      "package": "https://dl-xda.xposed.info/modules/com.redlee90.hideusbdebugging_v1_8f956a.apk<br>"
     },
     {
       "id": 702,
-      "name": "Re-EnableScreenshot",
+      "name": "Re-Enable Screenshot",
       "use": "在不支援截圖的應用程式上截圖",
-      "changelog": null,
+      "changelog": "",
       "version": "1.7",
       "package": "https://dl-xda.xposed.info/modules/se.valitron.res_v7_561f52.apk"
+    },
+    {
+      "id": 711,
+      "name": "钉钉助手(抢红包版)",
+      "use": "",
+      "changelog": "适配钉钉4.6.25版本<br>",
+      "version": "1.1.5<br>",
+      "package": "https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v7_829eaa.apk"
+    },
+    {
+      "id": 746,
+      "name": "应用管理Xposed",
+      "use": "绿色应用，微信gcm代收，划卡清理应用后台，锁屏清理后台，自启动/权限管理等一系列功能<br>",
+      "changelog": "<br> - Android O和P采用新的任务模糊方案。<br> - 修复排除的系统系统应用依然被乖巧。<br> - 陆续更新图标，采用Remix icon。<br>",
+      "version": "<br>5.2.1<br>",
+      "package": "<br>https://github.com/Tornaco/X-APM/releases/tag/5.2.1<br>"
+    },
+    {
+      "id": 629,
+      "name": "网速监测xp版",
+      "use": "锤子SmartisanOS状态栏网速显示，我是此模块的开发者，普通版已经上架锤子应用市场，在群里面有人提议我申请支持下太极-Magisk版，所以前来申请下。",
+      "changelog": "",
+      "version": "1.3",
+      "package": "https://share.weiyun.com/53yR5Da<br>"
+    },
+    {
+      "id": 640,
+      "name": "一键朋友圈",
+      "use": "汇聚微信朋友圈热门转发趣图，朋友圈搞笑群视频，10秒小视频，朋友圈文字配图，早安、晚安问候语、微商文案素材等精选资源，让你的朋友圈不再单调无趣。<br><br>功能特点<br><br>1、自带图文搜索功能，并按热门、搞笑、配图、微商、表情包、励志、百科、英文等分类对朋友圈热门资源进行整理归类，让您能迅速找到您所需的素材。<br>2、自带#话题#功能，能对同一系列的相关配图、文案等进行聚类。<br>3、每日更新大量高清、无水印文字配图，热门搞笑图片等<br>4、新增九宫格图片批量保存功能，能一次下载9张图片，再也不用您一张张手动保存啦！<br><br>目前支持微信最新的三个版本6.7.3、7.0.0、7.0.3，支持EdXposed框架（已测试）<br>如果您在使用过程中遇到任何问题或有更好的使用建议，欢迎您与我们联系<br>",
+      "changelog": "",
+      "version": "1.0.2",
+      "package": "https://repo.xposed.info/module/com.wxapp.moment<br>"
+    },
+    {
+      "id": 671,
+      "name": "ButteredToast",
+      "use": "向 Toast消息头部添加 Toast弹出者的应用名<br>就是在toast通知上显示是来自哪个应用的<br>",
+      "changelog": "",
+      "version": "1.1<br>",
+      "package": "https://www.coolapk.com/apk/me.zjns.butteredtoast<br><br>"
+    },
+    {
+      "id": 716,
+      "name": "GetVideo",
+      "use": "登录自己的视频网站会员账号后，可以解析出视频文件的下载链接，将视频文件保存到本地欣赏",
+      "changelog": "",
+      "version": "V1.3.0",
+      "package": "链接<br>https://pan.baidu.com/s/1ASm8NlTDUoA9YRVYAFIjxQ    提取码<br>ufmv "
+    },
+    {
+      "id": 729,
+      "name": "小米凈化",
+      "use": "",
+      "changelog": "未寫日志",
+      "version": "2.1.7",
+      "package": "http://t.cn/ESSsXtW"
+    },
+    {
+      "id": 723,
+      "name": "Google助手",
+      "use": "",
+      "changelog": "- 适配 9.72.4、9.78.3 <br>",
+      "version": "1.9.1<br>",
+      "package": "https://www.coolapk.com/apk/com.elderdrivers.googlesearchbox"
+    },
+    {
+      "id": 731,
+      "name": "小米机型伪装模块",
+      "use": "",
+      "changelog": "性能优化，减少耗电",
+      "version": "0.3.6.20190429.af38eb3",
+      "package": "https://github.com/MiPushFramework/MiPushFramework/releases/download/0.3.6.20190429.af38eb3/xmsf_service.apk"
+    },
+    {
+      "id": 732,
+      "name": "全民K歌辅助",
+      "use": "",
+      "changelog": "新版本K歌支持， 新增直播间欢迎功能",
+      "version": "1.3",
+      "package": "https://github.com/jiumoshou/karorkefz/blob/master/karorfz_1.3.apk"
+    },
+    {
+      "id": 737,
+      "name": "BiliRoaming（哔哩漫游）",
+      "use": "绕过地区限制，观看港澳台番剧",
+      "changelog": "",
+      "version": "1.0.8",
+      "package": "https://github.com/iAcn/BiliRoaming/releases/download/v1.0.8/BiliRoaming_1.0.8.apk<br><br><br><br>太极只支持到1.0.7，作者已经更新到1.0.8版本了，希望可以添加相关的支持。<br>已经和作者沟通过，作者同意到太极这里提交支持。<br>具体见<br> https://github.com/iAcn/BiliRoaming/issues/6"
+    },
+    {
+      "id": 741,
+      "name": "音量增强器",
+      "use": "",
+      "changelog": "Fix module not working caused by R8<br>",
+      "version": "0.0.33",
+      "package": "https://github.com/bin456789/Unblock163MusicClient-Xposed/releases/tag/0.0.33"
+    },
+    {
+      "id": 743,
+      "name": "WeXposed（微x模块）41_2.1",
+      "use": "",
+      "changelog": "代码重构",
+      "version": "2.1",
+      "package": "https://www.lanzous.com/i40m01c"
     }
   ],
   "blackLists": [
     {
-      "id": 420
-    },
-    {
       "id": 421
-    },
-    {
-      "id": 422
-    },
-    {
-      "id": 424
     },
     {
       "id": 425
     },
     {
       "id": 427
-    },
-    {
-      "id": 428
-    },
-    {
-      "id": 429
     },
     {
       "id": 430
@@ -762,9 +779,6 @@
     },
     {
       "id": 434
-    },
-    {
-      "id": 437
     },
     {
       "id": 438
@@ -789,9 +803,6 @@
     },
     {
       "id": 445
-    },
-    {
-      "id": 446
     },
     {
       "id": 448
@@ -833,9 +844,6 @@
       "id": 462
     },
     {
-      "id": 466
-    },
-    {
       "id": 467
     },
     {
@@ -843,9 +851,6 @@
     },
     {
       "id": 469
-    },
-    {
-      "id": 470
     },
     {
       "id": 471
@@ -875,10 +880,16 @@
       "id": 480
     },
     {
-      "id": 481
+      "id": 482
     },
     {
-      "id": 482
+      "id": 420
+    },
+    {
+      "id": 422
+    },
+    {
+      "id": 424
     },
     {
       "id": 483
@@ -887,10 +898,13 @@
       "id": 484
     },
     {
-      "id": 485
+      "id": 423
     },
     {
-      "id": 486
+      "id": 426
+    },
+    {
+      "id": 485
     },
     {
       "id": 487
@@ -902,10 +916,76 @@
       "id": 489
     },
     {
+      "id": 500
+    },
+    {
+      "id": 501
+    },
+    {
+      "id": 428
+    },
+    {
+      "id": 429
+    },
+    {
+      "id": 432
+    },
+    {
+      "id": 433
+    },
+    {
+      "id": 435
+    },
+    {
+      "id": 436
+    },
+    {
+      "id": 437
+    },
+    {
+      "id": 446
+    },
+    {
+      "id": 447
+    },
+    {
+      "id": 450
+    },
+    {
+      "id": 465
+    },
+    {
+      "id": 466
+    },
+    {
+      "id": 470
+    },
+    {
+      "id": 478
+    },
+    {
+      "id": 481
+    },
+    {
+      "id": 486
+    },
+    {
+      "id": 487
+    },
+    {
+      "id": 488
+    },
+    {
       "id": 490
     },
     {
+      "id": 491
+    },
+    {
       "id": 492
+    },
+    {
+      "id": 493
     },
     {
       "id": 494
@@ -923,10 +1003,13 @@
       "id": 499
     },
     {
-      "id": 500
+      "id": 502
     },
     {
-      "id": 501
+      "id": 503
+    },
+    {
+      "id": 504
     },
     {
       "id": 505
@@ -939,6 +1022,9 @@
     },
     {
       "id": 508
+    },
+    {
+      "id": 509
     },
     {
       "id": 510
@@ -954,6 +1040,9 @@
     },
     {
       "id": 516
+    },
+    {
+      "id": 517
     },
     {
       "id": 518
@@ -1010,13 +1099,28 @@
       "id": 537
     },
     {
+      "id": 538
+    },
+    {
+      "id": 540
+    },
+    {
+      "id": 541
+    },
+    {
       "id": 542
     },
     {
       "id": 543
     },
     {
+      "id": 544
+    },
+    {
       "id": 545
+    },
+    {
+      "id": 546
     },
     {
       "id": 547
@@ -1025,7 +1129,13 @@
       "id": 548
     },
     {
+      "id": 549
+    },
+    {
       "id": 550
+    },
+    {
+      "id": 552
     },
     {
       "id": 553
@@ -1070,6 +1180,12 @@
       "id": 567
     },
     {
+      "id": 568
+    },
+    {
+      "id": 569
+    },
+    {
       "id": 570
     },
     {
@@ -1103,6 +1219,15 @@
       "id": 581
     },
     {
+      "id": 582
+    },
+    {
+      "id": 583
+    },
+    {
+      "id": 584
+    },
+    {
       "id": 585
     },
     {
@@ -1124,6 +1249,12 @@
       "id": 591
     },
     {
+      "id": 592
+    },
+    {
+      "id": 593
+    },
+    {
       "id": 594
     },
     {
@@ -1134,6 +1265,15 @@
     },
     {
       "id": 597
+    },
+    {
+      "id": 599
+    },
+    {
+      "id": 600
+    },
+    {
+      "id": 601
     },
     {
       "id": 602
@@ -1148,10 +1288,13 @@
       "id": 605
     },
     {
-      "id": 607
+      "id": 606
     },
     {
       "id": 609
+    },
+    {
+      "id": 607
     },
     {
       "id": 610
@@ -1161,6 +1304,9 @@
     },
     {
       "id": 612
+    },
+    {
+      "id": 613
     },
     {
       "id": 614
@@ -1184,7 +1330,13 @@
       "id": 620
     },
     {
+      "id": 621
+    },
+    {
       "id": 622
+    },
+    {
+      "id": 623
     },
     {
       "id": 624
@@ -1196,13 +1348,22 @@
       "id": 626
     },
     {
+      "id": 627
+    },
+    {
       "id": 628
+    },
+    {
+      "id": 630
     },
     {
       "id": 633
     },
     {
       "id": 634
+    },
+    {
+      "id": 635
     },
     {
       "id": 637
@@ -1223,6 +1384,9 @@
       "id": 643
     },
     {
+      "id": 645
+    },
+    {
       "id": 646
     },
     {
@@ -1238,10 +1402,19 @@
       "id": 650
     },
     {
+      "id": 651
+    },
+    {
+      "id": 653
+    },
+    {
       "id": 654
     },
     {
       "id": 655
+    },
+    {
+      "id": 656
     },
     {
       "id": 657
@@ -1259,6 +1432,12 @@
       "id": 662
     },
     {
+      "id": 663
+    },
+    {
+      "id": 664
+    },
+    {
       "id": 666
     },
     {
@@ -1266,6 +1445,12 @@
     },
     {
       "id": 668
+    },
+    {
+      "id": 669
+    },
+    {
+      "id": 670
     },
     {
       "id": 672
@@ -1292,6 +1477,9 @@
       "id": 686
     },
     {
+      "id": 687
+    },
+    {
       "id": 688
     },
     {
@@ -1299,6 +1487,9 @@
     },
     {
       "id": 691
+    },
+    {
+      "id": 692
     },
     {
       "id": 693
@@ -1316,16 +1507,145 @@
       "id": 698
     },
     {
+      "id": 699
+    },
+    {
+      "id": 700
+    },
+    {
       "id": 701
     },
     {
       "id": 702
     },
     {
+      "id": 704
+    },
+    {
+      "id": 705
+    },
+    {
       "id": 707
     },
     {
-      "id": 546
+      "id": 708
+    },
+    {
+      "id": 710
+    },
+    {
+      "id": 711
+    },
+    {
+      "id": 608
+    },
+    {
+      "id": 629
+    },
+    {
+      "id": 631
+    },
+    {
+      "id": 640
+    },
+    {
+      "id": 644
+    },
+    {
+      "id": 671
+    },
+    {
+      "id": 683
+    },
+    {
+      "id": 709
+    },
+    {
+      "id": 712
+    },
+    {
+      "id": 714
+    },
+    {
+      "id": 716
+    },
+    {
+      "id": 718
+    },
+    {
+      "id": 719
+    },
+    {
+      "id": 720
+    },
+    {
+      "id": 722
+    },
+    {
+      "id": 723
+    },
+    {
+      "id": 724
+    },
+    {
+      "id": 725
+    },
+    {
+      "id": 726
+    },
+    {
+      "id": 727
+    },
+    {
+      "id": 728
+    },
+    {
+      "id": 729
+    },
+    {
+      "id": 730
+    },
+    {
+      "id": 731
+    },
+    {
+      "id": 732
+    },
+    {
+      "id": 733
+    },
+    {
+      "id": 734
+    },
+    {
+      "id": 736
+    },
+    {
+      "id": 737
+    },
+    {
+      "id": 738
+    },
+    {
+      "id": 740
+    },
+    {
+      "id": 741
+    },
+    {
+      "id": 742
+    },
+    {
+      "id": 743
+    },
+    {
+      "id": 745
+    },
+    {
+      "id": 746
+    },
+    {
+      "id": 748
     }
   ]
 }

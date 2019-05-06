@@ -22,11 +22,15 @@ async function write() {
   sortPosts.map(async (item) => {
     const result = `\n\n<details>
   <summary>${item.name}</summary>
-  <p>模块用途：${item.use}</p>
-  <p>更新日志：${item.changelog}</p>
-  <p>模块版本号：${item.version}</p>
-  <p>模块安装包：${item.package}</p>
-  <p>issue url：<a url="${baseUrl + item.id}"># ${item.id}</a></p>
+  <h3>模块用途：</h3>
+  <p>${item.use}</p>
+  <h3>更新日志：</h3>
+  <p>${item.changelog}</p>
+  <h3>模块版本号：</h3>
+  <p>${item.version}</p>
+  <h3>模块安装包：</h3>
+  <p>${item.package}</p>
+  <p>issue URL：<a href="${baseUrl + item.id}"># ${item.id}</a></p>
 </details>`;
     fs.appendFileSync('README.md', result, (err) => {if (err) conlose.log(err)});
   })
