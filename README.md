@@ -12,7 +12,7 @@
   <p><br>5.2.1<br></p>
   <h3>模块安装包：</h3>
   <p><br>https://github.com/Tornaco/X-APM/releases/tag/5.2.1<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/746"># 746</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/746"># 746</a></p>
 </details>
 
 <details>
@@ -25,7 +25,7 @@
   <p>2.1</p>
   <h3>模块安装包：</h3>
   <p>https://www.lanzous.com/i40m01c</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/743"># 743</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/743"># 743</a></p>
 </details>
 
 <details>
@@ -38,7 +38,7 @@
   <p>0.0.33</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/bin456789/Unblock163MusicClient-Xposed/releases/tag/0.0.33</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/741"># 741</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/741"># 741</a></p>
 </details>
 
 <details>
@@ -51,7 +51,7 @@
   <p>1.0.8</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/iAcn/BiliRoaming/releases/download/v1.0.8/BiliRoaming_1.0.8.apk<br><br><br><br>太极只支持到1.0.7，作者已经更新到1.0.8版本了，希望可以添加相关的支持。<br>已经和作者沟通过，作者同意到太极这里提交支持。<br>具体见<br> https://github.com/iAcn/BiliRoaming/issues/6</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/737"># 737</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/737"># 737</a></p>
 </details>
 
 <details>
@@ -64,7 +64,7 @@
   <p>1.3</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/jiumoshou/karorkefz/blob/master/karorfz_1.3.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/732"># 732</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/732"># 732</a></p>
 </details>
 
 <details>
@@ -77,7 +77,7 @@
   <p>0.3.6.20190429.af38eb3</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/MiPushFramework/MiPushFramework/releases/download/0.3.6.20190429.af38eb3/xmsf_service.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/731"># 731</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/731"># 731</a></p>
 </details>
 
 <details>
@@ -90,7 +90,7 @@
   <p>2.1.7</p>
   <h3>模块安装包：</h3>
   <p>http://t.cn/ESSsXtW</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/729"># 729</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/729"># 729</a></p>
 </details>
 
 <details>
@@ -103,7 +103,7 @@
   <p>1.9.1<br></p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.elderdrivers.googlesearchbox</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/723"># 723</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/723"># 723</a></p>
 </details>
 
 <details>
@@ -116,7 +116,7 @@
   <p>V1.3.0</p>
   <h3>模块安装包：</h3>
   <p>链接<br>https://pan.baidu.com/s/1ASm8NlTDUoA9YRVYAFIjxQ    提取码<br>ufmv </p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/716"># 716</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/716"># 716</a></p>
 </details>
 
 <details>
@@ -129,7 +129,7 @@
   <p>1.1.5<br></p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v7_829eaa.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/711"># 711</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/711"># 711</a></p>
 </details>
 
 <details>
@@ -142,7 +142,7 @@
   <p>v1.7.91 (54)</p>
   <h3>模块安装包：</h3>
   <p>包名<br>com.hiwechart.translate<br>蓝奏云<br>https://www.lanzous.com/i3vwxaj?t</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/707"># 707</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/707"># 707</a></p>
 </details>
 
 <details>
@@ -155,7 +155,7 @@
   <p>1.7</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/se.valitron.res_v7_561f52.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/702"># 702</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/702"># 702</a></p>
 </details>
 
 <details>
@@ -168,7 +168,7 @@
   <p>1.0</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/com.redlee90.hideusbdebugging_v1_8f956a.apk<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/701"># 701</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/701"># 701</a></p>
 </details>
 
 <details>
@@ -181,7 +181,7 @@
   <p>3.1.5_Stable_20190422</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/top.fols.aapp.eternalprocessxposed</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/695"># 695</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/695"># 695</a></p>
 </details>
 
 <details>
@@ -194,7 +194,7 @@
   <p>4.4.0</p>
   <h3>模块安装包：</h3>
   <p>[com.sky.xposed.aweme_4.4.0_57.zip](https://github.com/taichi-framework/TaiChi/files/3100945/com.sky.xposed.aweme_4.4.0_57.zip)</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/692"># 692</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/692"># 692</a></p>
 </details>
 
 <details>
@@ -207,7 +207,7 @@
   <p>1.8.2<br></p>
   <h3>模块安装包：</h3>
   <p>https://github.com/Cypher01/Xglyph2</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/674"># 674</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/674"># 674</a></p>
 </details>
 
 <details>
@@ -220,7 +220,7 @@
   <p>0.13</p>
   <h3>模块安装包：</h3>
   <p>链接: https://pan.baidu.com/s/13FJFBirWq70OujDseluJ2A 提取码: tazg <br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/673"># 673</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/673"># 673</a></p>
 </details>
 
 <details>
@@ -233,7 +233,7 @@
   <p>1.4</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/cuily.xp1<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/672"># 672</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/672"># 672</a></p>
 </details>
 
 <details>
@@ -246,7 +246,7 @@
   <p>1.1<br></p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/me.zjns.butteredtoast<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/671"># 671</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/671"># 671</a></p>
 </details>
 
 <details>
@@ -259,7 +259,7 @@
   <p>1.2</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/jiumoshou/karorkefz/blob/master/karorfz_1.2.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/661"># 661</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/661"># 661</a></p>
 </details>
 
 <details>
@@ -272,7 +272,7 @@
   <p>1.0<br></p>
   <h3>模块安装包：</h3>
   <p>https://www.lanzous.com/i3sm1ti?t<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/660"># 660</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/660"># 660</a></p>
 </details>
 
 <details>
@@ -285,7 +285,7 @@
   <p>1.4.5</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.zdy.project.wechat_chatroom_helper</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/658"># 658</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/658"># 658</a></p>
 </details>
 
 <details>
@@ -298,7 +298,7 @@
   <p>1.1.3<br></p>
   <h3>模块安装包：</h3>
   <p>http://t.cn/EX0JTQP<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/657"># 657</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/657"># 657</a></p>
 </details>
 
 <details>
@@ -311,7 +311,7 @@
   <p>1.8.8</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.elderdrivers.googlesearchbox</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/655"># 655</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/655"># 655</a></p>
 </details>
 
 <details>
@@ -324,7 +324,7 @@
   <p>1.0.1</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/picone/ZhihuXposed/releases/download/1.0.1/app-release.apk<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/649"># 649</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/649"># 649</a></p>
 </details>
 
 <details>
@@ -337,7 +337,7 @@
   <p>1.1</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/jiumoshou/karorkefz/blob/master/karorfz.apk<br><br>麻烦您了weishu，初步涉足，bug略多,xp没报，太极报了，修复已知，请多多包涵啦，嘿嘿</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/648"># 648</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/648"># 648</a></p>
 </details>
 
 <details>
@@ -350,7 +350,7 @@
   <p>6.0</p>
   <h3>模块安装包：</h3>
   <p>微云文件分享:要妳命三千_6.0.apk下载地址:https://share.weiyun.com/5jCRK9I</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/647"># 647</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/647"># 647</a></p>
 </details>
 
 <details>
@@ -363,7 +363,7 @@
   <p>1.3.1</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/cn.qssq666.q.plus_v45_52bac4.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/646"># 646</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/646"># 646</a></p>
 </details>
 
 <details>
@@ -376,7 +376,7 @@
   <p>1.0.7</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/iAcn/BiliRoaming</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/641"># 641</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/641"># 641</a></p>
 </details>
 
 <details>
@@ -389,7 +389,7 @@
   <p>1.0.2</p>
   <h3>模块安装包：</h3>
   <p>https://repo.xposed.info/module/com.wxapp.moment<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/640"># 640</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/640"># 640</a></p>
 </details>
 
 <details>
@@ -402,7 +402,7 @@
   <p>0.1.2 (5)</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/cinit/QNotified/releases/download/v0.1.2/qnotified_012.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/639"># 639</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/639"># 639</a></p>
 </details>
 
 <details>
@@ -415,7 +415,7 @@
   <p>1.0</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/jiumoshou/karorkefz/blob/master/karorkefz.apk<br>已更新界面</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/638"># 638</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/638"># 638</a></p>
 </details>
 
 <details>
@@ -428,7 +428,7 @@
   <p>1.8.4</p>
   <h3>模块安装包：</h3>
   <p>https://raw.githubusercontent.com/VwEl/-/master/wu-kong-v1.8.4-167314-o_1d65h521a1p571c46198namq1fpsq-uid-1131019.apk<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/633"># 633</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/633"># 633</a></p>
 </details>
 
 <details>
@@ -441,7 +441,7 @@
   <p>1.3</p>
   <h3>模块安装包：</h3>
   <p>https://share.weiyun.com/53yR5Da<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/629"># 629</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/629"># 629</a></p>
 </details>
 
 <details>
@@ -454,7 +454,7 @@
   <p>1.1.2<br></p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v4_704244.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/622"># 622</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/622"># 622</a></p>
 </details>
 
 <details>
@@ -467,7 +467,7 @@
   <p></p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/cn.wq.myandroidtoolsxposed</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/620"># 620</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/620"># 620</a></p>
 </details>
 
 <details>
@@ -480,7 +480,7 @@
   <p>1.6.9</p>
   <h3>模块安装包：</h3>
   <p>http://ainixiang.cn/update/alert/Alert1.6.9.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/619"># 619</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/619"># 619</a></p>
 </details>
 
 <details>
@@ -493,7 +493,7 @@
   <p>5.4.2<br></p>
   <h3>模块安装包：</h3>
   <p>https://www.lanzous.com/i3pjx0f</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/616"># 616</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/616"># 616</a></p>
 </details>
 
 <details>
@@ -506,7 +506,7 @@
   <p>Version name: 0.4.7.2<br></p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/io.shortway.appcontext_v16_a8fecb.apk<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/615"># 615</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/615"># 615</a></p>
 </details>
 
 <details>
@@ -519,7 +519,7 @@
   <p>5.4.0</p>
   <h3>模块安装包：</h3>
   <p>https://www.lanzous.com/i3ov8ub</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/612"># 612</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/612"># 612</a></p>
 </details>
 
 <details>
@@ -532,7 +532,7 @@
   <p>666<br></p>
   <h3>模块安装包：</h3>
   <p>http://t.cn/EisQYM7<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/610"># 610</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/610"># 610</a></p>
 </details>
 
 <details>
@@ -545,7 +545,7 @@
   <p>1.3.6<br></p>
   <h3>模块安装包：</h3>
   <p>链接<br>https://pan.baidu.com/s/1jJ4Xjbl8sg_oLh3PmoNtrw 提取码<br>tiwn </p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/607"># 607</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/607"># 607</a></p>
 </details>
 
 <details>
@@ -558,7 +558,7 @@
   <p>2.7.0<br></p>
   <h3>模块安装包：</h3>
   <p><br>下载地址<br>https://dl-xda.xposed.info/modules/me.piebridge.forcestopgb_v872_69fb0e.apk<br>模块介绍<br>https://repo.xposed.info/module/me.piebridge.forcestopgb<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/603"># 603</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/603"># 603</a></p>
 </details>
 
 <details>
@@ -571,7 +571,7 @@
   <p>5.4</p>
   <h3>模块安装包：</h3>
   <p>链接:https://pan.baidu.com/s/1S-i9Hl7hogRR1l90ia2x_Q 提取码:gki1</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/591"># 591</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/591"># 591</a></p>
 </details>
 
 <details>
@@ -584,7 +584,7 @@
   <p>1.1.6t</p>
   <h3>模块安装包：</h3>
   <p>https://www.lanzous.com/b596648<br>[ 森林庄园116e_test.apk ]</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/590"># 590</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/590"># 590</a></p>
 </details>
 
 <details>
@@ -597,7 +597,7 @@
   <p>1.1.1</p>
   <h3>模块安装包：</h3>
   <p>https://repo.xposed.info/module/com.sky.xposed.rimet<br>https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v3_fae19e.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/589"># 589</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/589"># 589</a></p>
 </details>
 
 <details>
@@ -610,7 +610,7 @@
   <p>0.7.0</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/1595901624/mhzs/releases<br><br>https://www.lanzous.com/b614986/     4uk6</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/588"># 588</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/588"># 588</a></p>
 </details>
 
 <details>
@@ -623,7 +623,7 @@
   <p>0.1-δ</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/com.app.legend.dms_v4_2accd7.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/586"># 586</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/586"># 586</a></p>
 </details>
 
 <details>
@@ -636,7 +636,7 @@
   <p>1.0.4</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/githubwing/DroidSword/raw/master/app/release/app-release.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/585"># 585</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/585"># 585</a></p>
 </details>
 
 <details>
@@ -649,7 +649,7 @@
   <p>1.35<br></p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/com.cataclysm.i_v64_037bfa.apk<br> </p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/574"># 574</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/574"># 574</a></p>
 </details>
 
 <details>
@@ -662,7 +662,7 @@
   <p>1.2.8</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/cn.qssq666.q.plus_v42_02531b.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/572"># 572</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/572"># 572</a></p>
 </details>
 
 <details>
@@ -675,7 +675,7 @@
   <p>5.5.0</p>
   <h3>模块安装包：</h3>
   <p>https://repo.xposed.info/module/com.grindrmod.xposed</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/571"># 571</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/571"># 571</a></p>
 </details>
 
 <details>
@@ -688,7 +688,7 @@
   <p>1.2.4</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.jy.taofanfan</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/564"># 564</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/564"># 564</a></p>
 </details>
 
 <details>
@@ -701,7 +701,7 @@
   <p>1.4</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/cn.ainixiang.myhanxiucao_v4_aedffa.apk<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/561"># 561</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/561"># 561</a></p>
 </details>
 
 <details>
@@ -714,7 +714,7 @@
   <p>3.3</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/nondanee/KeyakiMsgAssistant-Xposed</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/560"># 560</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/560"># 560</a></p>
 </details>
 
 <details>
@@ -727,7 +727,7 @@
   <p>0.02</p>
   <h3>模块安装包：</h3>
   <p>https://repo.xposed.info/module/com.jy.xposed.web<br>https://dl-xda.xposed.info/modules/com.jy.xposed.web_v2_ac063e.apk<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/558"># 558</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/558"># 558</a></p>
 </details>
 
 <details>
@@ -740,7 +740,7 @@
   <p>1.5.7<br></p>
   <h3>模块安装包：</h3>
   <p>https://drive.google.com/file/d/1Djq2kS4cYowzEJadJs7IETCcacJ9YPpx/view?usp=sharing</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/556"># 556</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/556"># 556</a></p>
 </details>
 
 <details>
@@ -753,7 +753,7 @@
   <p>v2.8.0</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/com.gh0u1l5.wechatmagician_v50_87af1c_0.apk<br><br>该模块内的微信密友功能较为实用，模块于微信7.0版本后已失效，7.0之前版本仍能使用，如需测试可使用6.7.3版本，谢谢！</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/547"># 547</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/547"># 547</a></p>
 </details>
 
 <details>
@@ -766,7 +766,7 @@
   <p>4.3.2.0<br></p>
   <h3>模块安装包：</h3>
   <p>https://www.lanzous.com/i3i9o3c</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/535"># 535</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/535"># 535</a></p>
 </details>
 
 <details>
@@ -779,7 +779,7 @@
   <p>3.0.6<br></p>
   <h3>模块安装包：</h3>
   <p>https://www.lanzous.com/i3i9g4f<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/533"># 533</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/533"># 533</a></p>
 </details>
 
 <details>
@@ -792,7 +792,7 @@
   <p>1.0.1</p>
   <h3>模块安装包：</h3>
   <p>https://pan.baidu.com/s/1Ef2u_T-KzYdBnvPy7ODfUQ  密码:yed9<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/532"># 532</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/532"># 532</a></p>
 </details>
 
 <details>
@@ -805,7 +805,7 @@
   <p>v1.1.0版本<br></p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/com.sky.xposed.rimet_v2_486e1b.apk<br><br>项目源地址<br>https://github.com/sky-wei/xposed-rimet</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/531"># 531</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/531"># 531</a></p>
 </details>
 
 <details>
@@ -818,7 +818,7 @@
   <p>1.4</p>
   <h3>模块安装包：</h3>
   <p>https://repo.xposed.info/module/com.brandonnalls.mockmocklocations<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/526"># 526</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/526"># 526</a></p>
 </details>
 
 <details>
@@ -831,7 +831,7 @@
   <p>3.53<br></p>
   <h3>模块安装包：</h3>
   <p>https://drive.google.com/file/d/1g3wsUswBGU6y_XdQr1lcx6ZIjZxq6-3O/view?usp=drivesdk<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/525"># 525</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/525"># 525</a></p>
 </details>
 
 <details>
@@ -844,7 +844,7 @@
   <p>1.0.4</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/top.imlk.undo<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/522"># 522</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/522"># 522</a></p>
 </details>
 
 <details>
@@ -857,7 +857,7 @@
   <p>1.5.0<br></p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.anjoyo.xyl.run</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/518"># 518</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/518"># 518</a></p>
 </details>
 
 <details>
@@ -870,7 +870,7 @@
   <p>0.73</p>
   <h3>模块安装包：</h3>
   <p>https://play.google.com/store/apps/details?id=eu.faircode.xlua.pro</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/512"># 512</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/512"># 512</a></p>
 </details>
 
 <details>
@@ -883,7 +883,7 @@
   <p>1.5.3</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.phoneinfo.changerpro<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/508"># 508</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/508"># 508</a></p>
 </details>
 
 <details>
@@ -896,7 +896,7 @@
   <p>1.2.7</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/cn.qssq666.q.plus_v41_1205ba.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/506"># 506</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/506"># 506</a></p>
 </details>
 
 <details>
@@ -909,7 +909,7 @@
   <p>1.28</p>
   <h3>模块安装包：</h3>
   <p>https://repo.xposed.info/module/com.sudocode.sudohide</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/500"># 500</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/500"># 500</a></p>
 </details>
 
 <details>
@@ -922,7 +922,7 @@
   <p>2.1.6</p>
   <h3>模块安装包：</h3>
   <p>链接：https://pan.baidu.com/s/1J-8Fa-fQ51_OZlESWYtIFQ 提取码：2lhv<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/499"># 499</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/499"># 499</a></p>
 </details>
 
 <details>
@@ -935,7 +935,7 @@
   <p>1.3.0</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/wangzailfm/ScanLogin/blob/master/app/ScanLogin_1.3.0.apk?raw=true</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/494"># 494</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/494"># 494</a></p>
 </details>
 
 <details>
@@ -948,7 +948,7 @@
   <p>V3.04</p>
   <h3>模块安装包：</h3>
   <p>[com.hamzahrmalik.immersiveforcer-3.0.4-13.zip](https://github.com/taichi-framework/TaiChi/files/2955795/com.hamzahrmalik.immersiveforcer-3.0.4-13.zip)</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/484"># 484</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/484"># 484</a></p>
 </details>
 
 <details>
@@ -961,7 +961,7 @@
   <p>1.16</p>
   <h3>模块安装包：</h3>
   <p>谷歌:<br>https://play.google.com/store/apps/details?id=zone.bytesreverser.xposeddeviceidmasker<br>百度云:<br>https://pan.baidu.com/s/10vf-8QvKq5HRyejVI__Gwg 密码：qiwe</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/484"># 484</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/484"># 484</a></p>
 </details>
 
 <details>
@@ -974,7 +974,7 @@
   <p>1.8.1</p>
   <h3>模块安装包：</h3>
   <p>https://share.weiyun.com/5TNPFs4</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/483"># 483</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/483"># 483</a></p>
 </details>
 
 <details>
@@ -987,7 +987,7 @@
   <p>8,5.2</p>
   <h3>模块安装包：</h3>
   <p>[com.ceco.oreo.gravitybox.apk.zip](https://github.com/taichi-framework/TaiChi/files/2952905/com.ceco.oreo.gravitybox.apk.zip)<br><br>猛然发现支持Pie的重力工具箱了，因而请求支持支持Oreo的</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/481"># 481</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/481"># 481</a></p>
 </details>
 
 <details>
@@ -1000,7 +1000,7 @@
   <p>2.7.0</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/zjns/PureNeteaseCloudMusic-Xposed/releases/tag/2.7.0</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/473"># 473</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/473"># 473</a></p>
 </details>
 
 <details>
@@ -1013,7 +1013,7 @@
   <p>1.1.5</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.lerist.xposed.apptranslator</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/472"># 472</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/472"># 472</a></p>
 </details>
 
 <details>
@@ -1026,7 +1026,7 @@
   <p>1.7</p>
   <h3>模块安装包：</h3>
   <p><br>[com.rong.xposed.fakelocation.zip](https://github.com/taichi-framework/TaiChi/files/2948299/com.rong.xposed.fakelocation.zip)<br>或者<br>[mocklocation_v1_135e3b.zip](https://github.com/taichi-framework/TaiChi/files/2948302/mocklocation_v1_135e3b.zip)<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/470"># 470</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/470"># 470</a></p>
 </details>
 
 <details>
@@ -1039,7 +1039,7 @@
   <p>1.1.5</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/com.lerist.xposed.apptranslator</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/468"># 468</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/468"># 468</a></p>
 </details>
 
 <details>
@@ -1052,7 +1052,7 @@
   <p></p>
   <h3>模块安装包：</h3>
   <p><br>[com.rong.xposed.fakelocation.zip](https://github.com/taichi-framework/TaiChi/files/2948299/com.rong.xposed.fakelocation.zip)<br>或者<br>[mocklocation_v1_135e3b.zip](https://github.com/taichi-framework/TaiChi/files/2948302/mocklocation_v1_135e3b.zip)<br><br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/466"># 466</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/466"># 466</a></p>
 </details>
 
 <details>
@@ -1065,7 +1065,7 @@
   <p>v1.8</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/apsun/TumblrAdAway/releases/download/v1.8/TumblrAdAway-1.8.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/458"># 458</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/458"># 458</a></p>
 </details>
 
 <details>
@@ -1078,7 +1078,7 @@
   <p>2.0</p>
   <h3>模块安装包：</h3>
   <p>安装包地址：https://dl-xda.xposed.info/modules/com.thermatk.android.xf.fakegapps_v3_bfc686.apk<br>源地址：https://repo.xposed.info/module/com.thermatk.android.xf.fakegapps</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/457"># 457</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/457"># 457</a></p>
 </details>
 
 <details>
@@ -1091,7 +1091,7 @@
   <p>1.5.2/1.5.3</p>
   <h3>模块安装包：</h3>
   <p>安装包：[PerfectColorBar V1.5.2 最后一版支持MIUI的](https://www.lanzous.com/i3cq9yj)</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/453"># 453</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/453"># 453</a></p>
 </details>
 
 <details>
@@ -1104,7 +1104,7 @@
   <p>4.6.3</p>
   <h3>模块安装包：</h3>
   <p>安装包：https://www.coolapk.com/apk/com.oasisfeng.greenify</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/452"># 452</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/452"># 452</a></p>
 </details>
 
 <details>
@@ -1117,7 +1117,7 @@
   <p>5.1.3</p>
   <h3>模块安装包：</h3>
   <p>安装包：https://www.lanzous.com/i3couod<br>源地址：https://repo.xposed.info/module/com.bocharov.xposed.fsbi</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/451"># 451</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/451"># 451</a></p>
 </details>
 
 <details>
@@ -1130,7 +1130,7 @@
   <p>2.1.0</p>
   <h3>模块安装包：</h3>
   <p>[模块链接Xposed Info](https://dl-xda.xposed.info/modules/com.samstenner.instantunlock_v9_c2a17c.apk)</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/448"># 448</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/448"># 448</a></p>
 </details>
 
 <details>
@@ -1143,7 +1143,7 @@
   <p>1.6.6</p>
   <h3>模块安装包：</h3>
   <p>https://pan.baidu.com/s/1haQhP58VuaHG80PIIMpPSA 提取码：yt4a<br></p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/446"># 446</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/446"># 446</a></p>
 </details>
 
 <details>
@@ -1156,7 +1156,7 @@
   <p>2.5.0</p>
   <h3>模块安装包：</h3>
   <p>https://share.weiyun.com/5NkfPoV</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/442"># 442</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/442"># 442</a></p>
 </details>
 
 <details>
@@ -1169,7 +1169,7 @@
   <p>2.28</p>
   <h3>模块安装包：</h3>
   <p>https://www.coolapk.com/apk/im.hoho.alipayInstallB</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/441"># 441</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/441"># 441</a></p>
 </details>
 
 <details>
@@ -1182,7 +1182,7 @@
   <p>1.0.5</p>
   <h3>模块安装包：</h3>
   <p>https://dl-xda.xposed.info/modules/cn.qssq666.wechat.plus_v6_7f321d.apk</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/431"># 431</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/431"># 431</a></p>
 </details>
 
 <details>
@@ -1195,7 +1195,7 @@
   <p>2.2.1</p>
   <h3>模块安装包：</h3>
   <p>（将`.zip`改为`.apk`）<br>[No Lock Home_2.2.1.zip](https://github.com/taichi-framework/TaiChi/files/2926420/No.Lock.Home_2.2.1.zip)</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/430"># 430</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/430"># 430</a></p>
 </details>
 
 <details>
@@ -1208,7 +1208,7 @@
   <p>1.3版本</p>
   <h3>模块安装包：</h3>
   <p>https://share.weiyun.com/5ujj5Is</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/424"># 424</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/424"># 424</a></p>
 </details>
 
 <details>
@@ -1221,7 +1221,7 @@
   <p>2.1</p>
   <h3>模块安装包：</h3>
   <p>https://repo.xposed.info/module/com.intplus.idchanger</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/422"># 422</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/422"># 422</a></p>
 </details>
 
 <details>
@@ -1234,5 +1234,5 @@
   <p>0.1.1</p>
   <h3>模块安装包：</h3>
   <p>https://github.com/ztc1997/MIUIAODNotificationIcon/releases</p>
-  <p>issue URL：<a href="https://api.github.com/repos/taichi-framework/TaiChi/issues/420"># 420</a></p>
+  <p>issue URL：<a href="https://github.com/taichi-framework/TaiChi/issues/420"># 420</a></p>
 </details>

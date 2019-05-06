@@ -16,7 +16,7 @@ function compare(property){
 async function write() {
   const posts = await db.get('posts').value()
   const sortPosts = await posts.sort(compare('id'));
-  const baseUrl = 'https://api.github.com/repos/taichi-framework/TaiChi/issues/';
+  const baseUrl = 'https://github.com/taichi-framework/TaiChi/issues/';
   const des = '# TaiChi-ModuleList\n\n## 本列表为从太极 issues 列表抓取的信息，不对正确率以及覆盖率作任何保证，仅供尝鲜使用，佛系维护此份列表。';
   fs.appendFileSync('README.md', des, (err) => {if (err) conlose.log(err)});
   sortPosts.map(async (item) => {
