@@ -22,14 +22,14 @@ async function addBlackList(number) {
 async function load() {
   // 需要抓取的 issues 起止数
   const issuesStartNumber = 420;
-  const issuesStopNumber = 707;
+  const issuesStopNumber = 748;
   const baseUrl = 'https://api.github.com/repos/taichi-framework/TaiChi/issues/';
 
   //获取数据库 issues 黑名单
   const blackList = await db.get('blackLists').value();
 
   for (let number = issuesStartNumber; number <= issuesStopNumber; number++) {
-    // let number = 546;
+    // let number = 484;
     //如果 issues number 不在黑名单中则进行下一步
     if (blackList.find(item => item.id == number) == null) {
 
@@ -52,13 +52,17 @@ async function load() {
         } else {
           if ((/新增模块支持：/).test(data.title) || (/模块更新支持：/).test(data.title)) {
 
-            const body = data.body.replace(/##|\s+/g, '');
+            const body = data.body.replace(/## /g, '').replace(/\r\n+|\n+|：+/g, '<br>');
 
-            const name = body.match(/模块名字(.*?)模/)[1];
-            const use = body.match(/模块用途(.*?)模/) !== null ? body.match(/模块用途(.*?)模块版本号/)[1] : null;
-            const changelog = body.match(/模块更新了什么？(.*?)模/) !== null ? body.match(/模块更新了什么？(.*?)模块安装包/)[1] : null;
-            const version = body.match(/模块版本号(.*?)模/)[1];
-            const package = body.match(/模块安装包(.*?)$/)[1].replace(/\(请务必给出模块.*?\)/, '');
+            const mainBody = body.match(/模块名字<br>(.*?)<br>(.*?)$/) !== null? body.match(/模块名字<br>(.*?)<br>(.*?)$/): body.match(/模块名字(.*?)<br>(.*?)$/);
+            const name = mainBody[1].replace(/^<br>+|<br>+$/g, '');
+            const description = mainBody[2].replace(/\(请务必给出模块.*?\)/, '');
+
+            const use = description.match(/模块用途(.*?)模/) !== null ? body.match(/模块用途(.*?)模块版本号/)[1].replace(/^<br>+|<br>+$/g, '') : "";
+            const changelog = description.match(/模块更新了什么？(.*?)模块安装包/) !== null ? body.match(/模块更新了什么？(.*?)模块安装包/)[1].replace(/^<br>+|<br>+$/g, '') : "";
+            const version = description.match(/模块版本号(.*?)模/)[1].replace(/^<br>+|<br>+$/g, '');
+            const package = description.match(/模块安装包(.*?)$/)[1].replace(/^<br>+|<br>+$/g, '');
+            
             if (db.get('posts').find({
                 name: name
               }).value() == null) {
@@ -75,7 +79,7 @@ async function load() {
                   name: name
                 }).assign({
                   id: number,
-                  name,
+                  use,
                   changelog,
                   version,
                   package
@@ -83,6 +87,8 @@ async function load() {
                 .write()
             }
             await addBlackList(number);
+          }else {
+            addBlackList(number)
           }
         }
       }
