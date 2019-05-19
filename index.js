@@ -22,7 +22,7 @@ async function addBlackList(number) {
 async function load() {
   // 需要抓取的 issues 起止数
   const issuesStartNumber = 420;
-  const issuesStopNumber = 748;
+  const issuesStopNumber = 793;
   const baseUrl = 'https://api.github.com/repos/taichi-framework/TaiChi/issues/';
 
   //获取数据库 issues 黑名单

@@ -759,6 +759,30 @@
       "changelog": "代码重构",
       "version": "2.1",
       "package": "https://www.lanzous.com/i40m01c"
+    },
+    {
+      "id": 521,
+      "name": " Line Hack",
+      "use": " 對line進行修改 如去除已讀，主題直接套用，轉傳限制，聊天背景更改<br>",
+      "changelog": "",
+      "version": " 0.7.17<br>",
+      "package": " https://my.pcloud.com/publink/show?code=XZTmYq7ZXY9bXknf3ERVgXPuAdxysBC085fV<br><br>"
+    },
+    {
+      "id": 681,
+      "name": "CustoMIUIzer",
+      "use": "修改MIUI系统界面和增加功能<br>",
+      "changelog": "",
+      "version": "1.41<br>",
+      "package": "https://www.lanzous.com/i3sotuj?t<br><br>(请务必给出模块的安装包文件，无论是通过网盘还是直接上传；否则此 issue 将被直接忽略！"
+    },
+    {
+      "id": 739,
+      "name": "LineHack",
+      "use": "",
+      "changelog": "支持line 9.6.1 (僅支持line 9.6.1)",
+      "version": "0.8.0",
+      "package": "https://my.pcloud.com/publink/show?code=XZRpJU7ZIf5TIlCoVejWwlWYL28lcz2ofKAy"
     }
   ],
   "blackLists": [
@@ -1646,6 +1670,33 @@
     },
     {
       "id": 748
+    },
+    {
+      "id": 463
+    },
+    {
+      "id": 511
+    },
+    {
+      "id": 521
+    },
+    {
+      "id": 551
+    },
+    {
+      "id": 632
+    },
+    {
+      "id": 681
+    },
+    {
+      "id": 685
+    },
+    {
+      "id": 739
+    },
+    {
+      "id": 747
     }
   ]
 }
