@@ -1,0 +1,90 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="no-siteapp"/>
+<title>Home | Tai Chi</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdui/0.4.2/css/mdui.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdui/0.4.2/js/mdui.min.js"></script>
+</head>
+
+<body class="mdui-appbar-with-toolbar mdui-theme-primary-indigo mdui-theme-accent-pink mdui-drawer-body-left">
+<!-- 工具栏 -->
+<header class="mdui-appbar mdui-appbar-fixed mdui-color-theme">
+	<div class="mdui-toolbar">
+		<a href="javascript:;" class="mdui-btn mdui-btn-icon" mdui-drawer="{target: '#left-drawer'}"><i class="mdui-icon material-icons">menu</i></a>
+		<span class="mdui-typo-title">Home</span>
+		<div class="mdui-toolbar-spacer"></div>
+		<a href="index.html" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">language</i></a>
+	</div>
+</header>
+<!-- 工具栏 -->
+
+<!-- 抽屉式导航栏 -->
+<div class="mdui-drawer" id="left-drawer">
+	<!-- 链接 -->
+	<div class="mdui-list">
+		<a href="module.html" class="mdui-list-item mdui-ripple">Supported Modules</a>
+		<a href="https://github.com/taichi-framework/TaiChi/wiki" class="mdui-list-item mdui-ripple">Wiki</a>
+		<a href="https://github.com/taichi-framework" class="mdui-list-item mdui-ripple">Organisation on Github</a>
+		<a href="https://t.me/taichi233" class="mdui-list-item mdui-ripple">Update Channel on Telegram</a>
+		<a href="https://t.me/vxp_group" class="mdui-list-item mdui-ripple">Group Chat on Telegram</a>
+		<a href="https://jq.qq.com/?_wv=1027&k=5cJaQiz" class="mdui-list-item mdui-ripple">Group Chat on QQ</a>
+		<a href="mailto:twsxtd@gmail.com" class="mdui-list-item mdui-ripple">Contact</a>
+	</div>
+	<!-- 链接 -->
+</div>
+<!-- 抽屉式导航栏 -->
+
+<!-- 正文 -->
+<div class="mdui-container doc-container">
+	<h1 class="doc-title mdui-text-color-theme">Taichi</h1>
+	<div class="mdui-typo">
+		<blockquote>
+			<p>Taichi is a framework capable of running Xposed modules that changes the behaviour of the Android system/apps. Taichi can run in either a rooted environment or non-rooted environment. Taichi is compatible with Android L ~ Android Q.</p>
+		</blockquote>
+	</div>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Download</h2>
+	<a href="https://github.com/taichi-framework/TaiChi/releases/download/5.1.11/5.1.11.apk" class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent">Download the latest Taichi app</a>
+	<a href="https://taichi.ctfile.com/fs/19604958-370032797" class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent">Download the latest Magisk module</a>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Features</h2>
+	<div class="mdui-typo">
+		<ul>
+			<li><p>Taichi fully supports Android 9 (A.K.A. Android P)</p></li>
+			<li><p>Taichi can run without root and TWRP</p></li>
+			<li>Taichi is not globally effective, it can only enable Xposed features for selected apps. The system runs the same as if there is no Xposed framework present.
+				<p>This means that Taichi can easily bypass SafetyNet and is fully compatible with many financial/mobile banking/weird apps.</p>
+			</li>
+			<li><p>In the majority of the cases, modules enabled in Taichi can take effect without rebooting your system</p></li>
+			<li>Taichi is more difficult to be detected, its low intrusiveness made Xposed modules work without modifying Android Runtime, and of course, it leaves no trace in the global systematic environment
+				<p>If needed, it can bypass various types of Xposed detection.</p>
+			</li>
+		</ul>
+	</div>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Usage</h2>
+	<p>Taichi has two modes: Non-root mode and Magisk mode; if you can't or you don't want to root, you can use the non-root mode, if you wish for more control over the system, you may try the Magisk mode</p>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Non-root mode</h2>
+	<p>Taichi uses non-root mode by default, all you need is to install the app. If you want to use Xposed modules, follow these instructions:</p>
+	<ul>
+		<p>1. Click the FAB in the bottom right, and click Create App</p>
+		<p>2. Choose the app you wish to use Xposed module on, for example, WeChat</p>
+		<p>3. Click Create App in the bottom and wait patiently</p>
+		<p>4. After app creation finish, Taichi will ask you to remove the original app. This is necessary only in non-root mode.</p>
+		<p>5. Follow in-app instructions to finish remaining procedures, like install and optimisations</p>
+		<p>6. Again click the FAB and choose Manage Modules</p>
+		<p>7. In the module management activity choose your desired Xposed module, for example, MDWeChat. You may be warned for version compatibility issues, so remember to download a compatible version</p>
+		<p>8. Force Close your chosen app, in this case, WeChat, and reopen the app. At this point, the Xposed module should be in effect. (No reboot needed)</p>
+	</ul>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Magisk mode</h2>
+	<p>The non-root mode does not require root/unlocking BL, therefore it is indeed easy to use, however, there are flaws like unable to modify global system environment and must uninstall the original app</p>
+	<p>So we made a Magisk module, granting Taichi even more powerful features and breaking the various limitations that exist only in non-root mode</p>
+	<p>Taichi will automatically switch over to Magisk mode after you install the Magisk module. If you remove or disable the Magisk module at any point, Taichi will again automatically revert to non-root mode</p>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Xposed module support</h2>
+	<p>Taichi is a framework, so developers can make their own module to run in Taichi. Taichi is also compatible with most Xposed features with a minimal amount of exception, so if you can make Xposed flavored modules, it'll most likely work in Taichi</p>
+</div>
+<!-- 正文 -->
+</body>
+</html>

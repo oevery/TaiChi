@@ -1,0 +1,89 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1.0, user-scalable=no"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
+<meta name="renderer" content="webkit">
+<meta http-equiv="Cache-Control" content="no-siteapp"/>
+<title>主页 | 太极</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/mdui/0.4.2/css/mdui.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mdui/0.4.2/js/mdui.min.js"></script>
+</head>
+
+<body class="mdui-appbar-with-toolbar mdui-theme-primary-indigo mdui-theme-accent-pink mdui-drawer-body-left">
+<!-- 工具栏 -->
+<header class="mdui-appbar mdui-appbar-fixed mdui-color-theme">
+	<div class="mdui-toolbar">
+		<a href="javascript:;" class="mdui-btn mdui-btn-icon" mdui-drawer="{target: '#left-drawer'}"><i class="mdui-icon material-icons">menu</i></a>
+		<span class="mdui-typo-title">主页</span>
+		<div class="mdui-toolbar-spacer"></div>
+		<a href="index_en.html" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">language</i></a>
+	</div>
+</header>
+<!-- 工具栏 -->
+
+<!-- 抽屉式导航栏 -->
+<div class="mdui-drawer" id="left-drawer">
+	<!-- 链接 -->
+	<div class="mdui-list">
+		<a href="module_zh.html" class="mdui-list-item mdui-ripple">支持的模块</a>
+		<a href="https://github.com/taichi-framework/TaiChi/wiki" class="mdui-list-item mdui-ripple">Wiki</a>
+		<a href="https://github.com/taichi-framework" class="mdui-list-item mdui-ripple">GitHub 组织</a>
+		<a href="https://t.me/taichi233" class="mdui-list-item mdui-ripple">Telegram 更新频道</a>
+		<a href="https://t.me/vxp_group" class="mdui-list-item mdui-ripple">Telegram 群组</a>
+		<a href="https://jq.qq.com/?_wv=1027&k=5cJaQiz" class="mdui-list-item mdui-ripple">QQ 群</a>
+		<a href="mailto:twsxtd@gmail.com" class="mdui-list-item mdui-ripple">联系我</a>
+	</div>
+	<!-- 链接 -->
+</div>
+<!-- 抽屉式导航栏 -->
+
+<!-- 正文 -->
+<div class="mdui-container doc-container">
+	<h1 class="doc-title mdui-text-color-theme">太极</h1>
+	<div class="mdui-typo">
+		<blockquote>
+			<p>太极是一个能够运行 Xposed 模块的框架，模块能通过它改变系统和应用的行为。太极既能以传统的 Root 刷机方式运作，也能免 Root 免刷机运行；并且它支持 Android L ~ Android Q。</p>
+		</blockquote>
+	</div>
+	<h2 class="doc-chapter-title mdui-text-color-theme">下载</h2>
+	<a href="https://taichi.ctfile.com/fs/19604958-370030313" class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent">下载最新版本</a>
+	<a href="https://taichi.ctfile.com/fs/19604958-370032797" class="mdui-btn mdui-btn-raised mdui-ripple mdui-color-theme-accent">下载最新 Magisk 模块</a>
+	<h2 class="doc-chapter-title mdui-text-color-theme">特性</h2>
+	<div class="mdui-typo">
+		<ul>
+			<li><p>太极完全支持 Android 9.0。</p></li>
+			<li><p>太极能以免 Root 免刷机模式运行。</p></li>
+			<li>太极不影响全局。可以只对特定的应用开启 Xposed 功能，无需使用 Xposed 的 APP 运行起来就跟系统没有 Xposed 一样；
+				<p>这意味着太极能轻松绕过 SafetyNet 检测，完美契合某些金融/银行/奇葩类 APP。</p>
+			</li>
+			<li><p>在大部分情况下，太极中的模块无需重启即刻生效。</p></li>
+			<li>太极更不易被检测，太极的弱侵入特性不再修改 Android Runtime 运行时，也不在全局环境中留下任何踪影；
+				<p>因此只要想要做到，可以轻松逃过各种代码类型的检测。</p>
+			</li>
+		</ul>
+	</div>
+	<h2 class="doc-chapter-title mdui-text-color-theme">使用方法</h2>
+	<p>太极有两种工作模式：免Root模式和 Magisk 模式。如果你不想解锁和刷机，你可以使用免 Root 模式，如果你希望对系统做更多的控制，可以尝试 Magisk 模式。</p>
+	<h2 class="doc-chapter-title mdui-text-color-theme">免 Root 模式</h2>
+	<p>通常情况下，太极以免 Root 模式运行，只需要安装一个简单的 APP 就能直接使用了。如果你需要通过太极使用 Xposed 模块，比如 MDWechat，按以下步骤操作即可：</p>
+	<ul>
+		<p>1. 点击太极首页右下角的浮动按钮，然后在弹出菜单中点击创建 APP。</p>
+		<p>2. 在选择APP的界面中选择你要应用 Xposed 模块的 APP，比如微信。</p>
+		<p>3. 然后点击创建按钮，耐心等待创建完毕。</p>
+		<p>4. 创建完成之后，太极会提示你需要卸载原 APP；免 Root 模式中这是必要步骤（Magisk 模式无需），卸载即可。</p>
+		<p>5. 跟随太极 APP 的指引完成余下操作，如安装-优化等。</p>
+		<p>6. 点击太极首页右下角的浮动按钮，在菜单中点击模块管理。</p>
+		<p>7. 进入模块管理页面，然后勾选你需要使用的 Xposed 模块；如 MDWechat。这里会提示你有版本兼容问题，注意下载和使用对应的版本。</p>
+		<p>8. 强制停止你需要使用的 APP，如微信；然后重新打开，这时候 Xposed 模块应该已经正常工作了（无需重启系统）。</p>
+	</ul>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Magisk 模式</h2>
+	<p>太极的免 Root 模式虽然无需解锁 Bootloader，使用起来异常方便，但是有一些缺点，比如无法修改系统、必须卸载原有 APP。因此我开发了一个 Magisk 模块，这个模块可以通过 Magisk 赋予太极更强大的功能；从而突破免 Root 模式的种种限制。</p>
+	<p>当你刷入太极提供的 Magisk 模块 之后，太极 APP 会自动从 免Root 模式切换到 Magisk 模式：太极 APP + 太极 Magisk 模块 = 太极 · Magisk。当 太极的 Magisk 模块被禁用或者卸载之后，太极会自动回到 免 Root 模式运行。</p>
+	<h2 class="doc-chapter-title mdui-text-color-theme">Xposed 模块支持</h2>
+	<p>太极是一个框架，因此开发者可以写出自己的模块在太极中运行。太极的模块是兼容 Xposed 模块的（少部分特性不支持），因此你只需要写出 Xposed 风格的模块就能在太极中运行。</p>
+</div>
+<!-- 正文 -->
+</body>
+</html>
