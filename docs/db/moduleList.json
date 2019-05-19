@@ -9,6 +9,13 @@
     },
     {
       "category": "微信相关的模块",
+      "name": "一键朋友圈",
+      "version": "1.0.2",
+      "summary": "汇聚微信朋友圈热门转发趣图，朋友圈搞笑群视频，10秒小视频，朋友圈文字配图，早安、晚安问候语、微商文案素材等精选资源，让你的朋友圈不再单调无趣。",
+      "link": "https://repo.xposed.info/module/com.wxapp.moment"
+    },
+    {
+      "category": "微信相关的模块",
       "name": "微信学英语",
       "version": "1.7.9",
       "summary": "微信和QQ自动翻译模块",
@@ -17,7 +24,7 @@
     {
       "category": "微信相关的模块",
       "name": "微X模块",
-      "version": "2.0",
+      "version": "2.1",
       "summary": "微信功能拓展模块",
       "link": "https://taichi.ctfile.com/fs/19604958-367085218"
     },
@@ -45,9 +52,9 @@
     {
       "category": "微信相关的模块",
       "name": "微信群消息助手",
-      "version": "1.4.4",
+      "version": "1.4.5",
       "summary": "微信群消息功能增强",
-      "link": "https://taichi.ctfile.com/fs/19604958-367085323"
+      "link": "https://www.coolapk.com/apk/com.zdy.project.wechat_chatroom_helper"
     },
     {
       "category": "微信相关的模块",
@@ -163,10 +170,10 @@
     },
     {
       "category": "网易云音乐相关的模块",
-      "name": "音量放大器",
-      "version": "0.0.31",
-      "summary": "音量放大器",
-      "link": "https://taichi.ctfile.com/fs/19604958-367085836"
+      "name": "音量增强器",
+      "version": "0.0.33",
+      "summary": "音量增强器",
+      "link": "https://github.com/bin456789/Unblock163MusicClient-Xposed/releases/tag/0.0.33"
     },
     {
       "category": "网易云音乐相关的模块",
@@ -199,9 +206,9 @@
     {
       "category": "钉钉相关",
       "name": "钉钉助手",
-      "version": "1.1.1",
-      "summary": "钉钉打卡",
-      "link": "https://taichi.ctfile.com/fs/19604958-367085887"
+      "version": "1.1.5",
+      "summary": "自动抢红包，消息防撤回",
+      "link": "https://repo.xposed.info/module/com.sky.xposed.rimet"
     },
     {
       "category": "钉钉相关",
@@ -254,10 +261,38 @@
     },
     {
       "category": "系统相关的模块",
+      "name": "亮度保镖",
+      "version": "1.4",
+      "summary": "防止一些应用（如支付宝、微信的付款码）修改亮度",
+      "link": "https://www.coolapk.com/apk/cuily.xp1"
+    },
+    {
+      "category": "系统相关的模块",
+      "name": "ButteredToast™",
+      "version": "1.1",
+      "summary": "向 Toast消息头部添加 Toast弹出者的应用名",
+      "link": "https://www.coolapk.com/apk/me.zjns.butteredtoast"
+    },
+    {
+      "category": "系统相关的模块",
       "name": "核心破解™",
       "version": "1.2.0",
       "summary": "降级安装/不同签名安装",
       "link": "https://taichi.ctfile.com/fs/19604958-367085722"
+    },
+    {
+      "category": "系统相关的模块",
+      "name": "应用管理Xposed™",
+      "version": "1.2.0",
+      "summary": "锤子SmartisanOS状态栏网速显示",
+      "link": "https://share.weiyun.com/53yR5Da"
+    },
+    {
+      "category": "系统相关的模块",
+      "name": "网速监测xp版™",
+      "version": "1.3",
+      "summary": "绿色应用，微信gcm代收，划卡清理应用后台，锁屏清理后台，自启动/权限管理等一系列功能",
+      "link": "https://github.com/Tornaco/X-APM/releases/"
     },
     {
       "category": "系统相关的模块",
@@ -324,6 +359,13 @@
     },
     {
       "category": "系统相关的模块",
+      "name": "Re-Enable Screenshot",
+      "version": "1.7",
+      "summary": "在不支援截圖的應用程式上截圖",
+      "package": "https://repo.xposed.info/module/se.valitron.res"
+    },
+    {
+      "category": "系统相关的模块",
       "name": "移除截屏延迟™",
       "version": "2.0",
       "summary": "秒截屏",
@@ -331,8 +373,15 @@
     },
     {
       "category": "系统相关的模块",
+      "name": "Hide USB Debugging Mode",
+      "summary": "針對應用程式隱藏 USB Debugging 狀態，對某些遊戲特別有用。",
+      "version": "1.0",
+      "package": "https://repo.xposed.info/module/com.redlee90.hideusbdebugging"
+    },
+    {
+      "category": "系统相关的模块",
       "name": "重力工具箱 Android P专用™",
-      "version": "beta8",
+      "version": "beta11",
       "summary": "综合性系统增强模块",
       "link": "https://taichi.ctfile.com/fs/19604958-367085767"
     },
@@ -472,9 +521,9 @@
     {
       "category": "系统相关的模块",
       "name": "进程锁™",
-      "version": "3.1.2",
+      "version": "3.1.5",
       "summary": "防止进程被杀",
-      "link": "https://taichi.ctfile.com/fs/19604958-367085743"
+      "link": "https://www.coolapk.com/apk/top.fols.aapp.eternalprocessxposed"
     },
     {
       "category": "虚拟定位",
@@ -552,6 +601,48 @@
       "version": "1.6.1",
       "summary": "步数修改模拟",
       "link": "https://www.lanzous.com/i32g3fe"
+    },
+    {
+      "category": "其他模块",
+      "name": "红色彗星",
+      "version": "1.0",
+      "summary": "破解P图软件PicsArt登录既是会员",
+      "package": "https://www.lanzous.com/i3sm1ti?t"
+    },
+    {
+      "category": "其他模块",
+      "name": "JDHistoryPrice(JD历史价格)",
+      "version": "0.13",
+      "summary": "查看京东当前商品的历史价格<br>在京东商品详情页点击<br>分享按钮-其他-选择【JD历史价格】",
+      "link": "链接: https://pan.baidu.com/s/13FJFBirWq70OujDseluJ2A 提取码: tazg <br>"
+    },
+    {
+      "category": "其他模块",
+      "name": "CustoMIUIzer",
+      "summary": "修改MIUI系统界面和增加功能",
+      "version": "1.41",
+      "link": "https://repo.xposed.info/module/name.mikanoshi.customiuizer"
+    },
+    {
+      "category": "其他模块",
+      "name": "LineHack",
+      "version": "0.8.0",
+      "summary": "對line進行修改 如去除已讀，主題直接套用，轉傳限制，聊天背景更改",
+      "link": "https://my.pcloud.com/publink/show?code=XZRpJU7ZIf5TIlCoVejWwlWYL28lcz2ofKAy"
+    },
+    {
+      "category": "其他模块",
+      "name": "支付宝装x模块",
+      "version": "2.28",
+      "summary": "修改本地支付宝会员",
+      "link": "https://www.coolapk.com/apk/im.hoho.alipayInstallB"
+    },
+    {
+      "category": "其他模块",
+      "name": "Xglyph2",
+      "summary": "adding some mods to the glyph game in Niantic's augmented reality game Ingress.",
+      "version": "1.8.2",
+      "package": "https://repo.xposed.info/module/com.cypher.xglyph2"
     },
     {
       "category": "其他模块",
@@ -668,9 +759,9 @@
     {
       "category": "其他模块",
       "name": "全民K歌辅助",
-      "version": "1.2",
+      "version": "1.3",
       "summary": "全民K歌功能增强",
-      "link": "https://taichi.ctfile.com/fs/19604958-367085023"
+      "link": "https://github.com/jiumoshou/karorkefz/blob/master/karorfz_1.3.apk"
     },
     {
       "category": "其他模块",
@@ -842,24 +933,17 @@
     },
     {
       "category": "其他模块",
-      "name": "哔哩漫游™",
+      "name": "BiliRoaming（哔哩漫游）™",
       "version": "1.07",
-      "summary": "哔哩哔哩增强模块",
-      "link": "https://taichi.ctfile.com/fs/19604958-367085050"
+      "summary": "哔哩哔哩增强模块，绕过地区限制，观看港澳台番剧",
+      "link": "https://github.com/iAcn/BiliRoaming/releases/download/v1.0.8/BiliRoaming_1.0.8.apk"
     },
     {
       "category": "其他模块",
       "name": "AnInputHook™",
-      "version": " ",
+      "version": "1.1.3",
       "summary": "监控App的输入",
-      "link": "https://taichi.ctfile.com/fs/19604958-367091498"
-    },
-    {
-      "category": "其他模块",
-      "name": "麻花助手™",
-      "version": "0.7.0_beta",
-      "summary": "麻花影视增强模块",
-      "link": "https://taichi.ctfile.com/fs/19604958-367085182"
+      "link": "https://www.lanzous.com/i3sxp0j?t"
     },
     {
       "category": "其他模块",
